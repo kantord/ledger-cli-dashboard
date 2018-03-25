@@ -8,6 +8,13 @@ dashboard "ledger-cli report":
           type: "timeseries"
           tick: 
             format: "%Y-%m"
-        y: 
-          label: "EUR"
-    - data: file://./monthly/Expenses_vs_Income.json
+    - data: file://./monthly_change/Expenses_vs_Income.json
+  - h2 text: Assets
+  - spline chart:
+    - attr:axis: 
+        x: 
+          label: "Month"
+          type: "timeseries"
+          tick: 
+            format: "%Y-%m"
+    - data: file://./monthly_balance/Assets.json

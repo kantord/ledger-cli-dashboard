@@ -1,8 +1,20 @@
-all: \
-	reports/monthly/change/Expenses_vs_Income.json \
-	reports/monthly/balance/Assets.json
+include accounts.conf
 
-reports/monthly/change/Expenses_vs_Income.txt: reports/monthly/change/Expenses.txt reports/monthly/change/Income.txt
+all: \
+	reports/monthly/change/$(expenses_account)_vs_$(income_account).json \
+	reports/monthly/balance/$(assets_account).json \
+	reports/monthly/balance/$(savings_account).json \
+	.dashboard.yml
+
+.dashboard.yml: ./dashboard.yml.template
+	cat $< | \
+		sed 's :expenses_account: $(expenses_account) g' | \
+		sed 's :income_account: $(income_account) g' | \
+		sed 's :assets_account: $(assets_account) g' | \
+		sed 's :savings_account: $(savings_account) g' \
+	> $@
+
+reports/monthly/change/$(expenses_account)_vs_$(income_account).txt: reports/monthly/change/$(expenses_account).txt reports/monthly/change/$(income_account).txt
 	join $^ > $@
 
 # Create monthly change report for account (json format)

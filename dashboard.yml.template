@@ -1,0 +1,32 @@
+dashboard "ledger-cli report":
+  - h1 text: ledger-cli report
+  - h2 text: Expense-income comparison
+  - spline chart:
+    - attr:axis: 
+        x: 
+          label: "Month"
+          type: "timeseries"
+          tick: 
+            format: "%Y-%m"
+    - data: file://./reports/monthly/change/:expenses_account:_vs_:income_account:.json
+  - 2 columns:
+    - rows:
+      - h2 text: Assets
+      - spline chart:
+        - attr:axis: 
+            x: 
+              label: "Month"
+              type: "timeseries"
+              tick: 
+                format: "%Y-%m"
+        - data: file://./reports/monthly/balance/:assets_account:.json
+    - rows:
+      - h2 text: Savings
+      - spline chart:
+        - attr:axis: 
+            x: 
+              label: "Month"
+              type: "timeseries"
+              tick: 
+                format: "%Y-%m"
+        - data: file://./reports/monthly/balance/:savings_account:.json

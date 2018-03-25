@@ -8,7 +8,7 @@ dashboard "ledger-cli report":
           type: "timeseries"
           tick: 
             format: "%Y-%m"
-    - data: file://./monthly_change/Expenses_vs_Income.json
+    - data: file://./reports/monthly/change/Expenses_vs_Income.json
   - h2 text: Assets
   - spline chart:
     - attr:axis: 
@@ -17,4 +17,4 @@ dashboard "ledger-cli report":
           type: "timeseries"
           tick: 
             format: "%Y-%m"
-    - data: file://./monthly_balance/Assets.json
+    - data: file://./reports/monthly/balance/Assets.json

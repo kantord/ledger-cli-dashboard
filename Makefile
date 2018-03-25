@@ -1,4 +1,6 @@
-all: reports/monthly/change/Expenses_vs_Income.json reports/monthly/balance/Assets.json
+all: \
+	reports/monthly/change/Expenses_vs_Income.json \
+	reports/monthly/balance/Assets.json
 
 reports/monthly/change/Expenses_vs_Income.txt: reports/monthly/change/Expenses.txt reports/monthly/change/Income.txt
 	join $^ > $@
@@ -18,7 +20,7 @@ reports/monthly/change/%.txt: $(ledgerfile)
 	mkdir -p $(shell dirname $@)
 	
 	# Create report file
-	./monthly_change.sh "$<" "$(shell echo "$*" | sed 's/^\///;s/\//:/g')" > "$@"
+	./monthly_change.sh "$<" "$(shell echo "$*" | sed 's/^\///;s/\//:/g')" $(currency) > "$@"
 
 # Create monthly balance report for account (dsv format)
 reports/monthly/balance/%.txt: $(ledgerfile)
@@ -26,5 +28,5 @@ reports/monthly/balance/%.txt: $(ledgerfile)
 	mkdir -p $(shell dirname $@)
 	
 	# Create report file
-	./monthly_balance.sh "$<" "$(shell echo "$*" | sed 's/^\///;s/\//:/g')" > "$@"
+	./monthly_balance.sh "$<" "$(shell echo "$*" | sed 's/^\///;s/\//:/g')" $(currency) > "$@"
 

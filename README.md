@@ -10,7 +10,7 @@
 
 ## Usage
 ```
-./dashboard.sh book.txt
+./dashboard.sh book.txt USD
 ```
 
 

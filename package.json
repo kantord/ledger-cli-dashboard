@@ -1,0 +1,23 @@
+{
+  "name": "ledger-cli-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kantord/ledger-cli-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kantord/ledger-cli-dashboard/issues"
+  },
+  "homepage": "https://github.com/kantord/ledger-cli-dashboard#readme",
+  "dependencies": {
+    "just-dashboard-desktop": "0.0.0"
+  }
+}

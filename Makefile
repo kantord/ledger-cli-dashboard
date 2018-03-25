@@ -1,5 +1,3 @@
-ledgerfile = book.txt
-
 all: reports/monthly/change/Expenses_vs_Income.json reports/monthly/balance/Assets.json
 
 reports/monthly/change/Expenses_vs_Income.txt: reports/monthly/change/Expenses.txt reports/monthly/change/Income.txt

@@ -1,0 +1,13 @@
+dashboard "ledger-cli report":
+  - h1 text: ledger-cli report
+  - h2 text: Expense-income comparison
+  - spline chart:
+    - attr:axis: 
+        x: 
+          label: "Month"
+          type: "timeseries"
+          tick: 
+            format: "%Y-%m"
+        y: 
+          label: "EUR"
+    - data: file://./monthly/Expenses_vs_Income.json

@@ -4,6 +4,7 @@ all: \
 	reports/monthly/change/$(expenses_account)_vs_$(income_account).json \
 	reports/monthly/balance/$(assets_account).json \
 	reports/monthly/balance/$(savings_account).json \
+	reports/monthly/categories.json \
 	.dashboard.yml
 
 .dashboard.yml: ./dashboard.yml.template
@@ -13,6 +14,10 @@ all: \
 		sed 's :assets_account: $(assets_account) g' | \
 		sed 's :savings_account: $(savings_account) g' \
 	> $@
+
+
+reports/monthly/categories.json: expense_categories.conf $(ledgerfile)
+	./categories.sh "$(ledgerfile)" "$<" "$(expenses_account)" $(currency) "$@"
 
 reports/monthly/change/$(expenses_account)_vs_$(income_account).txt: reports/monthly/change/$(expenses_account).txt reports/monthly/change/$(income_account).txt
 	join $^ > $@

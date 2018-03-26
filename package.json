@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/kantord/ledger-cli-dashboard#readme",
   "dependencies": {
-    "just-dashboard-desktop": "0.0.0"
+    "just-dashboard-desktop": "^1.0.0"
   }
 }

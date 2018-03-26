@@ -30,3 +30,12 @@ dashboard "ledger-cli report":
               tick: 
                 format: "%Y-%m"
         - data: file://./reports/monthly/balance/:savings_account:.json
+  - h2 text: Expense categories
+  - stacked area chart:
+    - attr:axis: 
+        x: 
+          label: "Month"
+          type: "timeseries"
+          tick: 
+            format: "%Y-%m"
+    - data: file://./reports/monthly/categories.json

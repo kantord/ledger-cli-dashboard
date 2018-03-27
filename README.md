@@ -1,5 +1,5 @@
 # ledger-cli-dashboard
-This is a graphical reporting tool for [ledger](https://www.ledger-cli.org/), created using the desktop version of [just-dashboard](https://kantord.github.io/just-dashboard/).
+This is a graphical reporting tool for [ledger](https://www.ledger-cli.org/), created using the desktop version of [just-dashboard](https://kantord.github.io/just-dashboard/). It is more intended as a starting point that you can extend and customize to match your own needs.
 
 ![](screenshot.png)
 

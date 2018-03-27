@@ -3,14 +3,14 @@ import itertools
 
 assets_account = "Assets"
 accounts = {
-    "Income": ((-2800, -2000), 1, (10, 15)),
+    "Income": ((-2200, -2000), 1, (10, 15)),
     "Expenses:Rent": ((1000, 1000), 1, (10, 15)),
     "Expenses:Services": ((10, 100), 3, (10, 25)),
     "Expenses:Food": ((200, 800), 15, (1, 28)),
     "Expenses:Travel": ((0, 500), 1, (1, 28)),
     "Expenses:Drinks": ((0, 100), 15, (1, 28)),
     "Expenses:Books": ((0, 200), 2, (1, 28)),
-    "Assets:Savings": ((100, 500), 1, (1, 28)),
+    "Assets:Savings": ((-200, 500), 1, (1, 28)),
 }
 
 

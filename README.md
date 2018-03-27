@@ -38,4 +38,6 @@ sub-accounts.
 ./dashboard.sh book.txt USD
 ```
 
+## Fake data
+This repo includes a fake ledger file called 'fake_book.txt' and a Python script which you can use to generate your own fake data.
 

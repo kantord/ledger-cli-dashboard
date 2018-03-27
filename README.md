@@ -1,4 +1,7 @@
 # ledger-cli-dashboard
+This is a graphical reporting tool for [ledger](https://www.ledger-cli.org/), created using the desktop version of [just-dashboard](https://kantord.github.io/just-dashboard/).
+
+
 ## Dependencies
 - yarn
 - npm
@@ -37,6 +40,8 @@ sub-accounts.
 ```
 ./dashboard.sh book.txt USD
 ```
+
+Replaced `USD` with your preferred output currency and `book.txt` with the path to your ledger file.
 
 ## Fake data
 This repo includes a fake ledger file called 'fake_book.txt' and a Python script which you can use to generate your own fake data.

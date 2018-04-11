@@ -16,4 +16,4 @@ command_to_run=$(cat expense_categories.conf  | sed "s/$/.txt/;s/^/join - report
 
 header=$(cat expense_categories.conf | tr "\n" " ")
 
-./jsonify.sh <(eval $command_to_run) "Month" "$header" > $output_file
+./scripts/jsonify.sh <(eval $command_to_run) "Month" "$header" > $output_file

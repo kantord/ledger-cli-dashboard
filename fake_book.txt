@@ -1,1452 +1,1456 @@
-2014-1-14
-    Assets
-    Income       -2556 USD
-
 2014-1-15
     Assets
-    Expenses:Rent       1000 USD
-
-2014-1-17
-    Assets
-    Expenses:Services       33 USD
-
-2014-1-17
-    Assets
-    Expenses:Services       3 USD
-
-2014-1-13
-    Assets
-    Expenses:Services       7 USD
-
-2014-1-7
-    Assets
-    Expenses:Food       34 USD
-
-2014-1-14
-    Assets
-    Expenses:Food       38 USD
-
-2014-1-3
-    Assets
-    Expenses:Food       29 USD
+    Income       -2086 USD
 
 2014-1-11
     Assets
-    Expenses:Food       20 USD
+    Expenses:Rent       1000 USD
 
-2014-1-4
+2014-1-11
     Assets
-    Expenses:Food       26 USD
+    Expenses:Services       22 USD
 
-2014-1-6
+2014-1-17
     Assets
-    Expenses:Food       29 USD
+    Expenses:Services       14 USD
 
-2014-1-19
+2014-1-18
     Assets
-    Expenses:Food       52 USD
+    Expenses:Services       25 USD
+
+2014-1-2
+    Assets
+    Expenses:Food       46 USD
 
 2014-1-20
     Assets
-    Expenses:Food       20 USD
+    Expenses:Food       48 USD
 
-2014-1-27
-    Assets
-    Expenses:Food       24 USD
-
-2014-1-28
-    Assets
-    Expenses:Food       41 USD
-
-2014-1-14
-    Assets
-    Expenses:Food       15 USD
-
-2014-1-27
+2014-1-26
     Assets
     Expenses:Food       29 USD
 
-2014-1-12
+2014-1-7
     Assets
-    Expenses:Food       31 USD
+    Expenses:Food       27 USD
+
+2014-1-5
+    Assets
+    Expenses:Food       19 USD
 
 2014-1-19
+    Assets
+    Expenses:Food       16 USD
+
+2014-1-14
     Assets
     Expenses:Food       19 USD
 
 2014-1-8
     Assets
-    Expenses:Food       53 USD
+    Expenses:Food       21 USD
 
 2014-1-17
     Assets
-    Expenses:Travel       418 USD
+    Expenses:Food       17 USD
 
-2014-1-22
+2014-1-16
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Food       20 USD
 
-2014-1-17
+2014-1-6
+    Assets
+    Expenses:Food       39 USD
+
+2014-1-1
+    Assets
+    Expenses:Food       30 USD
+
+2014-1-13
+    Assets
+    Expenses:Food       45 USD
+
+2014-1-20
+    Assets
+    Expenses:Food       32 USD
+
+2014-1-13
+    Assets
+    Expenses:Food       14 USD
+
+2014-1-7
+    Assets
+    Expenses:Travel       6 USD
+
+2014-1-3
     Assets
     Expenses:Drinks       5 USD
 
-2014-1-15
+2014-1-28
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-1-10
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-1-7
     Assets
     Expenses:Drinks       2 USD
 
 2014-1-3
     Assets
-    Expenses:Drinks       1 USD
+    Expenses:Drinks       4 USD
 
-2014-1-2
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-1-13
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-1-14
+2014-1-24
     Assets
     Expenses:Drinks       4 USD
 
-2014-1-9
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-1-25
+2014-1-3
     Assets
     Expenses:Drinks       1 USD
-
-2014-1-14
-    Assets
-    Expenses:Drinks       3 USD
 
 2014-1-18
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Drinks       3 USD
 
-2014-1-5
+2014-1-2
     Assets
     Expenses:Drinks       5 USD
 
-2014-1-15
+2014-1-21
     Assets
     Expenses:Drinks       4 USD
 
-2014-1-23
+2014-1-20
     Assets
-    Expenses:Books       62 USD
+    Expenses:Drinks       3 USD
 
-2014-1-4
+2014-1-14
     Assets
-    Expenses:Books       23 USD
+    Expenses:Drinks       4 USD
 
-2014-1-27
+2014-1-18
     Assets
-    Assets:Savings       144 USD
+    Expenses:Books       36 USD
+
+2014-1-18
+    Assets
+    Expenses:Books       32 USD
+
+2014-1-2
+    Assets
+    Assets:Savings       -102 USD
 
 2014-2-15
     Assets
-    Income       -2796 USD
+    Income       -2144 USD
 
-2014-2-10
+2014-2-12
     Assets
     Expenses:Rent       1000 USD
 
-2014-2-23
-    Assets
-    Expenses:Services       29 USD
-
-2014-2-13
+2014-2-19
     Assets
     Expenses:Services       10 USD
 
+2014-2-14
+    Assets
+    Expenses:Services       26 USD
+
+2014-2-24
+    Assets
+    Expenses:Services       6 USD
+
+2014-2-19
+    Assets
+    Expenses:Food       23 USD
+
+2014-2-4
+    Assets
+    Expenses:Food       31 USD
+
 2014-2-18
-    Assets
-    Expenses:Services       33 USD
-
-2014-2-15
-    Assets
-    Expenses:Food       52 USD
-
-2014-2-1
-    Assets
-    Expenses:Food       21 USD
-
-2014-2-10
-    Assets
-    Expenses:Food       53 USD
-
-2014-2-19
-    Assets
-    Expenses:Food       35 USD
-
-2014-2-2
-    Assets
-    Expenses:Food       34 USD
-
-2014-2-24
-    Assets
-    Expenses:Food       43 USD
-
-2014-2-19
-    Assets
-    Expenses:Food       33 USD
-
-2014-2-3
-    Assets
-    Expenses:Food       41 USD
-
-2014-2-24
-    Assets
-    Expenses:Food       27 USD
-
-2014-2-27
-    Assets
-    Expenses:Food       21 USD
-
-2014-2-10
-    Assets
-    Expenses:Food       37 USD
-
-2014-2-12
-    Assets
-    Expenses:Food       49 USD
-
-2014-2-5
-    Assets
-    Expenses:Food       23 USD
-
-2014-2-6
-    Assets
-    Expenses:Food       26 USD
-
-2014-2-21
-    Assets
-    Expenses:Food       36 USD
-
-2014-2-26
-    Assets
-    Expenses:Travel       120 USD
-
-2014-2-9
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-2-3
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-2-1
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-2-7
-    Assets
-    Expenses:Drinks       4 USD
-
-2014-2-28
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-2-13
-    Assets
-    Expenses:Drinks       4 USD
-
-2014-2-12
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-2-11
-    Assets
-    Expenses:Drinks       4 USD
-
-2014-2-27
-    Assets
-    Expenses:Drinks       4 USD
-
-2014-2-2
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-2-11
-    Assets
-    Expenses:Drinks       3 USD
-
-2014-2-13
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-2-15
-    Assets
-    Expenses:Books       52 USD
-
-2014-2-6
-    Assets
-    Expenses:Books       34 USD
-
-2014-2-6
-    Assets
-    Assets:Savings       397 USD
-
-2014-3-14
-    Assets
-    Income       -2208 USD
-
-2014-3-14
-    Assets
-    Expenses:Rent       1000 USD
-
-2014-3-16
-    Assets
-    Expenses:Services       19 USD
-
-2014-3-10
-    Assets
-    Expenses:Services       9 USD
-
-2014-3-24
-    Assets
-    Expenses:Services       21 USD
-
-2014-3-25
-    Assets
-    Expenses:Food       41 USD
-
-2014-3-13
-    Assets
-    Expenses:Food       22 USD
-
-2014-3-7
-    Assets
-    Expenses:Food       23 USD
-
-2014-3-27
-    Assets
-    Expenses:Food       46 USD
-
-2014-3-12
-    Assets
-    Expenses:Food       39 USD
-
-2014-3-13
-    Assets
-    Expenses:Food       29 USD
-
-2014-3-13
-    Assets
-    Expenses:Food       34 USD
-
-2014-3-4
-    Assets
-    Expenses:Food       19 USD
-
-2014-3-19
-    Assets
-    Expenses:Food       18 USD
-
-2014-3-20
-    Assets
-    Expenses:Food       13 USD
-
-2014-3-25
-    Assets
-    Expenses:Food       21 USD
-
-2014-3-23
-    Assets
-    Expenses:Food       19 USD
-
-2014-3-3
-    Assets
-    Expenses:Food       39 USD
-
-2014-3-11
-    Assets
-    Expenses:Food       42 USD
-
-2014-3-1
-    Assets
-    Expenses:Food       44 USD
-
-2014-3-9
-    Assets
-    Expenses:Travel       390 USD
-
-2014-3-14
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-3-13
-    Assets
-    Expenses:Drinks       3 USD
-
-2014-3-28
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-3-4
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-3-20
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-3-22
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-3-3
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-3-24
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-3-26
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-3-3
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-3-27
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-3-27
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-3-20
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-3-23
-    Assets
-    Expenses:Books       96 USD
-
-2014-3-12
-    Assets
-    Expenses:Books       95 USD
-
-2014-3-4
-    Assets
-    Assets:Savings       118 USD
-
-2014-4-11
-    Assets
-    Income       -2292 USD
-
-2014-4-14
-    Assets
-    Expenses:Rent       1000 USD
-
-2014-4-17
-    Assets
-    Expenses:Services       18 USD
-
-2014-4-15
-    Assets
-    Expenses:Services       18 USD
-
-2014-4-17
-    Assets
-    Expenses:Services       25 USD
-
-2014-4-15
-    Assets
-    Expenses:Food       44 USD
-
-2014-4-14
-    Assets
-    Expenses:Food       38 USD
-
-2014-4-14
-    Assets
-    Expenses:Food       28 USD
-
-2014-4-28
     Assets
     Expenses:Food       47 USD
 
-2014-4-6
+2014-2-4
     Assets
     Expenses:Food       43 USD
 
-2014-4-5
+2014-2-9
     Assets
-    Expenses:Food       32 USD
+    Expenses:Food       18 USD
 
-2014-4-24
+2014-2-16
+    Assets
+    Expenses:Food       14 USD
+
+2014-2-27
+    Assets
+    Expenses:Food       48 USD
+
+2014-2-1
     Assets
     Expenses:Food       45 USD
 
-2014-4-8
+2014-2-25
     Assets
-    Expenses:Food       19 USD
+    Expenses:Food       46 USD
 
-2014-4-11
+2014-2-28
     Assets
-    Expenses:Food       18 USD
+    Expenses:Food       32 USD
 
-2014-4-9
+2014-2-6
     Assets
-    Expenses:Food       30 USD
+    Expenses:Food       13 USD
 
-2014-4-10
+2014-2-17
     Assets
-    Expenses:Food       19 USD
+    Expenses:Food       43 USD
 
-2014-4-16
+2014-2-20
     Assets
-    Expenses:Food       28 USD
+    Expenses:Food       46 USD
 
-2014-4-20
+2014-2-15
     Assets
-    Expenses:Food       18 USD
+    Expenses:Food       24 USD
 
-2014-4-11
+2014-2-5
     Assets
-    Expenses:Food       37 USD
+    Expenses:Food       25 USD
 
-2014-4-6
+2014-2-4
+    Assets
+    Expenses:Travel       168 USD
+
+2014-2-10
+    Assets
+    Expenses:Drinks       1 USD
+
+2014-2-3
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-2-14
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-2-14
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-2-14
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-2-6
+    Assets
+    Expenses:Drinks       5 USD
+
+2014-2-12
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-2-1
+    Assets
+    Expenses:Drinks       1 USD
+
+2014-2-17
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-2-26
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-2-18
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-2-28
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-2-21
+    Assets
+    Expenses:Books       41 USD
+
+2014-2-23
+    Assets
+    Expenses:Books       96 USD
+
+2014-2-22
+    Assets
+    Assets:Savings       115 USD
+
+2014-3-12
+    Assets
+    Income       -2083 USD
+
+2014-3-15
+    Assets
+    Expenses:Rent       1000 USD
+
+2014-3-14
+    Assets
+    Expenses:Services       31 USD
+
+2014-3-13
+    Assets
+    Expenses:Services       24 USD
+
+2014-3-22
+    Assets
+    Expenses:Services       22 USD
+
+2014-3-7
+    Assets
+    Expenses:Food       15 USD
+
+2014-3-2
     Assets
     Expenses:Food       26 USD
 
-2014-4-10
+2014-3-17
     Assets
-    Expenses:Travel       152 USD
+    Expenses:Food       47 USD
 
-2014-4-25
+2014-3-11
+    Assets
+    Expenses:Food       31 USD
+
+2014-3-9
+    Assets
+    Expenses:Food       43 USD
+
+2014-3-23
+    Assets
+    Expenses:Food       26 USD
+
+2014-3-1
+    Assets
+    Expenses:Food       43 USD
+
+2014-3-13
+    Assets
+    Expenses:Food       38 USD
+
+2014-3-21
+    Assets
+    Expenses:Food       37 USD
+
+2014-3-21
+    Assets
+    Expenses:Food       41 USD
+
+2014-3-8
+    Assets
+    Expenses:Food       49 USD
+
+2014-3-4
+    Assets
+    Expenses:Food       32 USD
+
+2014-3-14
+    Assets
+    Expenses:Food       13 USD
+
+2014-3-1
+    Assets
+    Expenses:Food       50 USD
+
+2014-3-22
+    Assets
+    Expenses:Food       20 USD
+
+2014-3-26
+    Assets
+    Expenses:Travel       31 USD
+
+2014-3-25
+    Assets
+    Expenses:Drinks       5 USD
+
+2014-3-5
     Assets
     Expenses:Drinks       6 USD
+
+2014-3-2
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-3-23
+    Assets
+    Expenses:Drinks       1 USD
+
+2014-3-16
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-3-27
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-3-26
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-3-19
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-3-7
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-3-28
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-3-4
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-3-7
+    Assets
+    Expenses:Drinks       5 USD
+
+2014-3-11
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-3-18
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-3-18
+    Assets
+    Expenses:Books       57 USD
+
+2014-3-5
+    Assets
+    Assets:Savings       496 USD
+
+2014-4-12
+    Assets
+    Income       -2013 USD
+
+2014-4-11
+    Assets
+    Expenses:Rent       1000 USD
+
+2014-4-21
+    Assets
+    Expenses:Services       24 USD
+
+2014-4-15
+    Assets
+    Expenses:Services       31 USD
 
 2014-4-24
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Services       12 USD
 
-2014-4-26
+2014-4-20
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       51 USD
+
+2014-4-8
+    Assets
+    Expenses:Food       22 USD
+
+2014-4-3
+    Assets
+    Expenses:Food       14 USD
+
+2014-4-28
+    Assets
+    Expenses:Food       27 USD
+
+2014-4-20
+    Assets
+    Expenses:Food       17 USD
+
+2014-4-11
+    Assets
+    Expenses:Food       17 USD
+
+2014-4-17
+    Assets
+    Expenses:Food       38 USD
+
+2014-4-15
+    Assets
+    Expenses:Food       19 USD
+
+2014-4-22
+    Assets
+    Expenses:Food       19 USD
+
+2014-4-7
+    Assets
+    Expenses:Food       52 USD
+
+2014-4-11
+    Assets
+    Expenses:Food       13 USD
+
+2014-4-25
+    Assets
+    Expenses:Food       41 USD
+
+2014-4-25
+    Assets
+    Expenses:Food       13 USD
+
+2014-4-27
+    Assets
+    Expenses:Food       13 USD
+
+2014-4-13
+    Assets
+    Expenses:Food       19 USD
+
+2014-4-20
+    Assets
+    Expenses:Travel       130 USD
+
+2014-4-27
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-4-11
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-4-8
+    Assets
+    Expenses:Drinks       4 USD
 
 2014-4-21
     Assets
     Expenses:Drinks       3 USD
 
-2014-4-12
+2014-4-19
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Drinks       2 USD
 
-2014-4-2
+2014-4-25
     Assets
     Expenses:Drinks       3 USD
 
-2014-4-22
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-4-10
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-4-19
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-4-10
+2014-4-27
     Assets
     Expenses:Drinks       5 USD
 
-2014-4-3
+2014-4-17
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Drinks       3 USD
 
-2014-4-6
+2014-4-9
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-4-19
     Assets
     Expenses:Drinks       2 USD
 
 2014-4-16
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Drinks       2 USD
+
+2014-4-7
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-4-7
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-4-4
+    Assets
+    Expenses:Books       34 USD
+
+2014-4-23
+    Assets
+    Expenses:Books       63 USD
 
 2014-4-22
     Assets
-    Expenses:Books       85 USD
-
-2014-4-14
-    Assets
-    Expenses:Books       64 USD
-
-2014-4-9
-    Assets
-    Assets:Savings       280 USD
-
-2014-5-14
-    Assets
-    Income       -2607 USD
-
-2014-5-11
-    Assets
-    Expenses:Rent       1000 USD
-
-2014-5-23
-    Assets
-    Expenses:Services       14 USD
+    Assets:Savings       -16 USD
 
 2014-5-10
     Assets
-    Expenses:Services       3 USD
+    Income       -2050 USD
 
-2014-5-16
+2014-5-10
     Assets
-    Expenses:Services       17 USD
+    Expenses:Rent       1000 USD
 
-2014-5-24
+2014-5-22
     Assets
-    Expenses:Food       38 USD
+    Expenses:Services       32 USD
 
 2014-5-21
     Assets
-    Expenses:Food       18 USD
+    Expenses:Services       6 USD
 
-2014-5-3
+2014-5-19
     Assets
-    Expenses:Food       25 USD
-
-2014-5-2
-    Assets
-    Expenses:Food       31 USD
+    Expenses:Services       22 USD
 
 2014-5-19
     Assets
     Expenses:Food       48 USD
 
-2014-5-28
+2014-5-16
     Assets
-    Expenses:Food       38 USD
+    Expenses:Food       40 USD
 
 2014-5-10
     Assets
-    Expenses:Food       38 USD
+    Expenses:Food       48 USD
 
-2014-5-27
+2014-5-9
+    Assets
+    Expenses:Food       40 USD
+
+2014-5-17
+    Assets
+    Expenses:Food       45 USD
+
+2014-5-11
+    Assets
+    Expenses:Food       33 USD
+
+2014-5-15
+    Assets
+    Expenses:Food       15 USD
+
+2014-5-19
+    Assets
+    Expenses:Food       40 USD
+
+2014-5-25
+    Assets
+    Expenses:Food       37 USD
+
+2014-5-15
     Assets
     Expenses:Food       22 USD
 
-2014-5-23
+2014-5-20
     Assets
-    Expenses:Food       35 USD
+    Expenses:Food       33 USD
 
-2014-5-19
-    Assets
-    Expenses:Food       27 USD
-
-2014-5-22
-    Assets
-    Expenses:Food       29 USD
-
-2014-5-21
-    Assets
-    Expenses:Food       27 USD
-
-2014-5-4
-    Assets
-    Expenses:Food       24 USD
-
-2014-5-19
+2014-5-10
     Assets
     Expenses:Food       31 USD
 
-2014-5-12
+2014-5-17
     Assets
-    Expenses:Food       25 USD
+    Expenses:Food       47 USD
 
-2014-5-22
+2014-5-18
     Assets
-    Expenses:Travel       78 USD
+    Expenses:Food       38 USD
 
-2014-5-3
+2014-5-16
+    Assets
+    Expenses:Food       18 USD
+
+2014-5-27
+    Assets
+    Expenses:Travel       120 USD
+
+2014-5-9
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-5-13
+    Assets
+    Expenses:Drinks       5 USD
+
+2014-5-10
     Assets
     Expenses:Drinks       3 USD
+
+2014-5-26
+    Assets
+    Expenses:Drinks       6 USD
 
 2014-5-14
     Assets
+    Expenses:Drinks       1 USD
+
+2014-5-9
+    Assets
+    Expenses:Drinks       1 USD
+
+2014-5-18
+    Assets
+    Expenses:Drinks       5 USD
+
+2014-5-5
+    Assets
     Expenses:Drinks       2 USD
 
-2014-5-24
+2014-5-18
+    Assets
+    Expenses:Drinks       5 USD
+
+2014-5-17
     Assets
     Expenses:Drinks       3 USD
 
-2014-5-28
+2014-5-26
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Drinks       1 USD
 
-2014-5-6
+2014-5-8
     Assets
     Expenses:Drinks       3 USD
 
 2014-5-8
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Drinks       5 USD
 
-2014-5-25
-    Assets
-    Expenses:Drinks       4 USD
-
-2014-5-1
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-5-6
+2014-5-2
     Assets
     Expenses:Drinks       3 USD
 
-2014-5-7
+2014-5-27
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Books       78 USD
 
-2014-5-25
+2014-5-11
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Books       69 USD
 
-2014-5-24
+2014-5-12
     Assets
-    Expenses:Drinks       4 USD
+    Assets:Savings       -48 USD
 
-2014-5-16
+2014-6-11
     Assets
-    Expenses:Drinks       2 USD
-
-2014-5-26
-    Assets
-    Expenses:Books       26 USD
-
-2014-5-7
-    Assets
-    Expenses:Books       57 USD
-
-2014-5-5
-    Assets
-    Assets:Savings       144 USD
-
-2014-6-12
-    Assets
-    Income       -2137 USD
-
-2014-6-13
-    Assets
-    Expenses:Rent       1000 USD
-
-2014-6-19
-    Assets
-    Expenses:Services       23 USD
-
-2014-6-15
-    Assets
-    Expenses:Services       31 USD
-
-2014-6-25
-    Assets
-    Expenses:Services       23 USD
-
-2014-6-6
-    Assets
-    Expenses:Food       37 USD
-
-2014-6-5
-    Assets
-    Expenses:Food       14 USD
-
-2014-6-20
-    Assets
-    Expenses:Food       42 USD
-
-2014-6-7
-    Assets
-    Expenses:Food       43 USD
-
-2014-6-25
-    Assets
-    Expenses:Food       51 USD
-
-2014-6-28
-    Assets
-    Expenses:Food       50 USD
-
-2014-6-22
-    Assets
-    Expenses:Food       30 USD
-
-2014-6-28
-    Assets
-    Expenses:Food       26 USD
-
-2014-6-12
-    Assets
-    Expenses:Food       51 USD
-
-2014-6-1
-    Assets
-    Expenses:Food       44 USD
-
-2014-6-22
-    Assets
-    Expenses:Food       15 USD
-
-2014-6-9
-    Assets
-    Expenses:Food       17 USD
-
-2014-6-13
-    Assets
-    Expenses:Food       36 USD
-
-2014-6-8
-    Assets
-    Expenses:Food       23 USD
-
-2014-6-5
-    Assets
-    Expenses:Food       28 USD
-
-2014-6-14
-    Assets
-    Expenses:Travel       25 USD
+    Income       -2056 USD
 
 2014-6-10
     Assets
-    Expenses:Drinks       4 USD
-
-2014-6-16
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-6-1
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-6-28
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-6-11
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-6-14
-    Assets
-    Expenses:Drinks       3 USD
-
-2014-6-26
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-6-22
-    Assets
-    Expenses:Drinks       3 USD
-
-2014-6-7
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-6-24
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-6-24
-    Assets
-    Expenses:Drinks       3 USD
-
-2014-6-11
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-6-26
-    Assets
-    Expenses:Books       2 USD
-
-2014-6-14
-    Assets
-    Expenses:Books       14 USD
-
-2014-6-25
-    Assets
-    Assets:Savings       192 USD
-
-2014-7-13
-    Assets
-    Income       -2748 USD
-
-2014-7-15
-    Assets
     Expenses:Rent       1000 USD
 
-2014-7-14
+2014-6-23
     Assets
-    Expenses:Services       7 USD
+    Expenses:Services       10 USD
 
-2014-7-22
+2014-6-17
     Assets
-    Expenses:Services       32 USD
+    Expenses:Services       12 USD
 
-2014-7-23
+2014-6-12
     Assets
-    Expenses:Services       8 USD
+    Expenses:Services       6 USD
 
-2014-7-1
+2014-6-4
     Assets
-    Expenses:Food       29 USD
+    Expenses:Food       24 USD
 
-2014-7-22
+2014-6-15
     Assets
-    Expenses:Food       44 USD
+    Expenses:Food       38 USD
 
-2014-7-5
+2014-6-17
     Assets
-    Expenses:Food       29 USD
+    Expenses:Food       36 USD
 
-2014-7-5
-    Assets
-    Expenses:Food       32 USD
-
-2014-7-20
-    Assets
-    Expenses:Food       29 USD
-
-2014-7-24
-    Assets
-    Expenses:Food       27 USD
-
-2014-7-7
-    Assets
-    Expenses:Food       44 USD
-
-2014-7-11
-    Assets
-    Expenses:Food       47 USD
-
-2014-7-25
+2014-6-14
     Assets
     Expenses:Food       14 USD
 
-2014-7-20
+2014-6-1
     Assets
     Expenses:Food       16 USD
 
-2014-7-14
+2014-6-6
     Assets
-    Expenses:Food       35 USD
+    Expenses:Food       22 USD
 
-2014-7-9
+2014-6-25
     Assets
-    Expenses:Food       29 USD
+    Expenses:Food       20 USD
 
-2014-7-28
+2014-6-1
     Assets
-    Expenses:Food       27 USD
+    Expenses:Food       38 USD
 
-2014-7-16
+2014-6-21
     Assets
-    Expenses:Food       52 USD
+    Expenses:Food       31 USD
 
-2014-7-25
+2014-6-24
     Assets
-    Expenses:Food       13 USD
+    Expenses:Food       16 USD
 
-2014-7-16
+2014-6-15
     Assets
-    Expenses:Travel       281 USD
+    Expenses:Food       15 USD
 
-2014-7-8
+2014-6-5
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       39 USD
 
-2014-7-10
+2014-6-21
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Food       39 USD
 
-2014-7-5
+2014-6-12
+    Assets
+    Expenses:Food       45 USD
+
+2014-6-21
+    Assets
+    Expenses:Food       14 USD
+
+2014-6-6
+    Assets
+    Expenses:Travel       162 USD
+
+2014-6-1
     Assets
     Expenses:Drinks       6 USD
 
+2014-6-17
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-6-2
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-6-2
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-6-28
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-6-11
+    Assets
+    Expenses:Drinks       1 USD
+
+2014-6-13
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-6-24
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-6-2
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-6-18
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-6-20
+    Assets
+    Expenses:Drinks       1 USD
+
+2014-6-2
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-6-23
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-6-7
+    Assets
+    Expenses:Books       54 USD
+
+2014-6-1
+    Assets
+    Expenses:Books       66 USD
+
+2014-6-5
+    Assets
+    Assets:Savings       -23 USD
+
+2014-7-13
+    Assets
+    Income       -2010 USD
+
+2014-7-10
+    Assets
+    Expenses:Rent       1000 USD
+
+2014-7-25
+    Assets
+    Expenses:Services       9 USD
+
+2014-7-16
+    Assets
+    Expenses:Services       32 USD
+
 2014-7-20
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Services       6 USD
 
-2014-7-5
+2014-7-16
+    Assets
+    Expenses:Food       21 USD
+
+2014-7-4
+    Assets
+    Expenses:Food       35 USD
+
+2014-7-2
+    Assets
+    Expenses:Food       53 USD
+
+2014-7-23
+    Assets
+    Expenses:Food       44 USD
+
+2014-7-14
+    Assets
+    Expenses:Food       21 USD
+
+2014-7-16
+    Assets
+    Expenses:Food       41 USD
+
+2014-7-9
+    Assets
+    Expenses:Food       44 USD
+
+2014-7-15
+    Assets
+    Expenses:Food       42 USD
+
+2014-7-13
+    Assets
+    Expenses:Food       46 USD
+
+2014-7-13
+    Assets
+    Expenses:Food       23 USD
+
+2014-7-6
+    Assets
+    Expenses:Food       31 USD
+
+2014-7-14
+    Assets
+    Expenses:Food       16 USD
+
+2014-7-9
+    Assets
+    Expenses:Food       21 USD
+
+2014-7-10
+    Assets
+    Expenses:Food       43 USD
+
+2014-7-12
+    Assets
+    Expenses:Food       40 USD
+
+2014-7-13
+    Assets
+    Expenses:Travel       174 USD
+
+2014-7-6
+    Assets
+    Expenses:Drinks       1 USD
+
+2014-7-13
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-7-24
     Assets
     Expenses:Drinks       2 USD
 
-2014-7-7
+2014-7-4
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-7-27
     Assets
     Expenses:Drinks       5 USD
 
-2014-7-3
+2014-7-17
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-7-11
     Assets
     Expenses:Drinks       4 USD
 
 2014-7-21
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Drinks       5 USD
 
 2014-7-28
     Assets
     Expenses:Drinks       1 USD
 
-2014-7-27
+2014-7-6
     Assets
-    Expenses:Drinks       6 USD
-
-2014-7-4
-    Assets
-    Expenses:Drinks       4 USD
+    Expenses:Drinks       1 USD
 
 2014-7-28
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Drinks       5 USD
 
-2014-7-14
+2014-7-8
     Assets
     Expenses:Drinks       2 USD
 
-2014-7-19
+2014-7-12
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Drinks       4 USD
 
-2014-7-27
+2014-7-23
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Drinks       4 USD
+
+2014-7-17
+    Assets
+    Expenses:Books       17 USD
 
 2014-7-26
     Assets
-    Expenses:Books       46 USD
+    Expenses:Books       43 USD
 
-2014-7-19
+2014-7-15
     Assets
-    Expenses:Books       28 USD
-
-2014-7-9
-    Assets
-    Assets:Savings       392 USD
-
-2014-8-15
-    Assets
-    Income       -2531 USD
+    Assets:Savings       54 USD
 
 2014-8-12
     Assets
-    Expenses:Rent       1000 USD
-
-2014-8-23
-    Assets
-    Expenses:Services       11 USD
-
-2014-8-22
-    Assets
-    Expenses:Services       21 USD
-
-2014-8-13
-    Assets
-    Expenses:Services       16 USD
-
-2014-8-25
-    Assets
-    Expenses:Food       16 USD
-
-2014-8-20
-    Assets
-    Expenses:Food       36 USD
-
-2014-8-4
-    Assets
-    Expenses:Food       21 USD
-
-2014-8-24
-    Assets
-    Expenses:Food       29 USD
-
-2014-8-7
-    Assets
-    Expenses:Food       21 USD
-
-2014-8-5
-    Assets
-    Expenses:Food       52 USD
-
-2014-8-16
-    Assets
-    Expenses:Food       14 USD
-
-2014-8-23
-    Assets
-    Expenses:Food       25 USD
+    Income       -2073 USD
 
 2014-8-15
     Assets
-    Expenses:Food       26 USD
+    Expenses:Rent       1000 USD
 
-2014-8-22
+2014-8-20
     Assets
-    Expenses:Food       35 USD
+    Expenses:Services       14 USD
 
-2014-8-16
+2014-8-17
     Assets
-    Expenses:Food       24 USD
-
-2014-8-10
-    Assets
-    Expenses:Food       40 USD
-
-2014-8-19
-    Assets
-    Expenses:Food       31 USD
+    Expenses:Services       29 USD
 
 2014-8-14
     Assets
-    Expenses:Food       18 USD
+    Expenses:Services       31 USD
 
-2014-8-6
+2014-8-17
     Assets
-    Expenses:Food       36 USD
+    Expenses:Food       45 USD
 
-2014-8-5
+2014-8-3
     Assets
-    Expenses:Travel       418 USD
+    Expenses:Food       13 USD
+
+2014-8-15
+    Assets
+    Expenses:Food       15 USD
+
+2014-8-20
+    Assets
+    Expenses:Food       16 USD
+
+2014-8-10
+    Assets
+    Expenses:Food       53 USD
+
+2014-8-13
+    Assets
+    Expenses:Food       49 USD
 
 2014-8-4
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       26 USD
+
+2014-8-17
+    Assets
+    Expenses:Food       21 USD
+
+2014-8-27
+    Assets
+    Expenses:Food       47 USD
+
+2014-8-8
+    Assets
+    Expenses:Food       35 USD
+
+2014-8-12
+    Assets
+    Expenses:Food       52 USD
+
+2014-8-20
+    Assets
+    Expenses:Food       27 USD
+
+2014-8-25
+    Assets
+    Expenses:Food       50 USD
+
+2014-8-4
+    Assets
+    Expenses:Food       16 USD
+
+2014-8-13
+    Assets
+    Expenses:Food       18 USD
+
+2014-8-27
+    Assets
+    Expenses:Travel       50 USD
+
+2014-8-21
+    Assets
+    Expenses:Drinks       3 USD
 
 2014-8-15
     Assets
     Expenses:Drinks       6 USD
 
-2014-8-2
+2014-8-9
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Drinks       6 USD
 
-2014-8-13
+2014-8-23
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Drinks       6 USD
+
+2014-8-22
+    Assets
+    Expenses:Drinks       1 USD
+
+2014-8-19
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-8-1
+    Assets
+    Expenses:Drinks       1 USD
+
+2014-8-25
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-8-20
+    Assets
+    Expenses:Drinks       6 USD
 
 2014-8-8
     Assets
     Expenses:Drinks       1 USD
 
-2014-8-14
+2014-8-16
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Drinks       2 USD
 
 2014-8-14
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Books       82 USD
 
 2014-8-23
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Books       71 USD
 
-2014-8-25
+2014-8-5
     Assets
-    Expenses:Drinks       1 USD
-
-2014-8-25
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-8-20
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-8-7
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-8-17
-    Assets
-    Expenses:Drinks       3 USD
-
-2014-8-3
-    Assets
-    Expenses:Books       63 USD
-
-2014-8-2
-    Assets
-    Expenses:Books       99 USD
-
-2014-8-20
-    Assets
-    Assets:Savings       256 USD
+    Assets:Savings       244 USD
 
 2014-9-15
     Assets
-    Income       -2545 USD
-
-2014-9-15
-    Assets
-    Expenses:Rent       1000 USD
-
-2014-9-22
-    Assets
-    Expenses:Services       28 USD
-
-2014-9-17
-    Assets
-    Expenses:Services       24 USD
-
-2014-9-13
-    Assets
-    Expenses:Services       13 USD
-
-2014-9-7
-    Assets
-    Expenses:Food       32 USD
-
-2014-9-10
-    Assets
-    Expenses:Food       13 USD
-
-2014-9-20
-    Assets
-    Expenses:Food       25 USD
-
-2014-9-11
-    Assets
-    Expenses:Food       21 USD
-
-2014-9-11
-    Assets
-    Expenses:Food       34 USD
-
-2014-9-23
-    Assets
-    Expenses:Food       24 USD
+    Income       -2155 USD
 
 2014-9-14
     Assets
-    Expenses:Food       26 USD
-
-2014-9-23
-    Assets
-    Expenses:Food       37 USD
-
-2014-9-26
-    Assets
-    Expenses:Food       39 USD
-
-2014-9-28
-    Assets
-    Expenses:Food       25 USD
-
-2014-9-13
-    Assets
-    Expenses:Food       34 USD
-
-2014-9-22
-    Assets
-    Expenses:Food       26 USD
+    Expenses:Rent       1000 USD
 
 2014-9-11
     Assets
-    Expenses:Food       41 USD
+    Expenses:Services       18 USD
 
-2014-9-16
+2014-9-21
     Assets
-    Expenses:Food       24 USD
+    Expenses:Services       22 USD
 
-2014-9-17
+2014-9-10
     Assets
-    Expenses:Food       18 USD
-
-2014-9-23
-    Assets
-    Expenses:Travel       364 USD
-
-2014-9-3
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-9-16
-    Assets
-    Expenses:Drinks       3 USD
+    Expenses:Services       33 USD
 
 2014-9-27
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Food       28 USD
+
+2014-9-1
+    Assets
+    Expenses:Food       43 USD
 
 2014-9-2
     Assets
+    Expenses:Food       34 USD
+
+2014-9-25
+    Assets
+    Expenses:Food       27 USD
+
+2014-9-24
+    Assets
+    Expenses:Food       13 USD
+
+2014-9-27
+    Assets
+    Expenses:Food       42 USD
+
+2014-9-6
+    Assets
+    Expenses:Food       16 USD
+
+2014-9-25
+    Assets
+    Expenses:Food       50 USD
+
+2014-9-10
+    Assets
+    Expenses:Food       47 USD
+
+2014-9-20
+    Assets
+    Expenses:Food       21 USD
+
+2014-9-21
+    Assets
+    Expenses:Food       23 USD
+
+2014-9-2
+    Assets
+    Expenses:Food       13 USD
+
+2014-9-27
+    Assets
+    Expenses:Food       49 USD
+
+2014-9-21
+    Assets
+    Expenses:Food       39 USD
+
+2014-9-19
+    Assets
+    Expenses:Food       43 USD
+
+2014-9-14
+    Assets
+    Expenses:Travel       1 USD
+
+2014-9-22
+    Assets
     Expenses:Drinks       2 USD
+
+2014-9-12
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-9-9
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-9-8
+    Assets
+    Expenses:Drinks       5 USD
+
+2014-9-23
+    Assets
+    Expenses:Drinks       5 USD
+
+2014-9-3
+    Assets
+    Expenses:Drinks       3 USD
 
 2014-9-24
     Assets
     Expenses:Drinks       1 USD
 
-2014-9-21
-    Assets
-    Expenses:Drinks       3 USD
-
-2014-9-14
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-9-12
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-9-25
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-9-3
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-9-25
-    Assets
-    Expenses:Drinks       4 USD
-
-2014-9-14
+2014-9-18
     Assets
     Expenses:Drinks       6 USD
-
-2014-9-15
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-9-5
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-9-16
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-9-1
-    Assets
-    Expenses:Books       77 USD
-
-2014-9-1
-    Assets
-    Expenses:Books       1 USD
 
 2014-9-26
     Assets
-    Assets:Savings       182 USD
+    Expenses:Drinks       6 USD
 
-2014-10-10
+2014-9-19
     Assets
-    Income       -2183 USD
+    Expenses:Drinks       6 USD
+
+2014-9-26
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-9-27
+    Assets
+    Expenses:Drinks       1 USD
+
+2014-9-18
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-9-20
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-9-4
+    Assets
+    Expenses:Books       56 USD
+
+2014-9-2
+    Assets
+    Expenses:Books       1 USD
+
+2014-9-13
+    Assets
+    Assets:Savings       246 USD
 
 2014-10-13
     Assets
+    Income       -2059 USD
+
+2014-10-10
+    Assets
     Expenses:Rent       1000 USD
-
-2014-10-20
-    Assets
-    Expenses:Services       12 USD
-
-2014-10-14
-    Assets
-    Expenses:Services       21 USD
-
-2014-10-21
-    Assets
-    Expenses:Services       25 USD
-
-2014-10-28
-    Assets
-    Expenses:Food       37 USD
-
-2014-10-23
-    Assets
-    Expenses:Food       25 USD
-
-2014-10-6
-    Assets
-    Expenses:Food       52 USD
-
-2014-10-18
-    Assets
-    Expenses:Food       17 USD
-
-2014-10-28
-    Assets
-    Expenses:Food       30 USD
 
 2014-10-12
     Assets
-    Expenses:Food       33 USD
+    Expenses:Services       32 USD
+
+2014-10-13
+    Assets
+    Expenses:Services       6 USD
+
+2014-10-16
+    Assets
+    Expenses:Services       25 USD
+
+2014-10-6
+    Assets
+    Expenses:Food       36 USD
+
+2014-10-20
+    Assets
+    Expenses:Food       50 USD
+
+2014-10-28
+    Assets
+    Expenses:Food       32 USD
+
+2014-10-20
+    Assets
+    Expenses:Food       25 USD
+
+2014-10-13
+    Assets
+    Expenses:Food       26 USD
 
 2014-10-25
     Assets
-    Expenses:Food       48 USD
-
-2014-10-15
-    Assets
-    Expenses:Food       22 USD
+    Expenses:Food       28 USD
 
 2014-10-18
     Assets
     Expenses:Food       49 USD
 
-2014-10-4
+2014-10-7
     Assets
-    Expenses:Food       31 USD
+    Expenses:Food       46 USD
 
-2014-10-1
+2014-10-3
     Assets
     Expenses:Food       14 USD
 
-2014-10-6
+2014-10-18
     Assets
-    Expenses:Food       31 USD
+    Expenses:Food       28 USD
 
-2014-10-11
+2014-10-14
     Assets
-    Expenses:Food       37 USD
+    Expenses:Food       33 USD
 
-2014-10-11
+2014-10-16
     Assets
-    Expenses:Food       45 USD
-
-2014-10-26
-    Assets
-    Expenses:Food       43 USD
-
-2014-10-3
-    Assets
-    Expenses:Travel       276 USD
-
-2014-10-22
-    Assets
-    Expenses:Drinks       6 USD
-
-2014-10-3
-    Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       25 USD
 
 2014-10-8
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Food       25 USD
 
 2014-10-24
     Assets
+    Expenses:Food       23 USD
+
+2014-10-20
+    Assets
+    Expenses:Food       51 USD
+
+2014-10-27
+    Assets
+    Expenses:Travel       105 USD
+
+2014-10-23
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-10-22
+    Assets
     Expenses:Drinks       1 USD
 
-2014-10-26
+2014-10-9
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Drinks       6 USD
+
+2014-10-1
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-10-25
+    Assets
+    Expenses:Drinks       3 USD
 
 2014-10-11
     Assets
     Expenses:Drinks       1 USD
 
-2014-10-28
+2014-10-22
+    Assets
+    Expenses:Drinks       3 USD
+
+2014-10-13
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-10-20
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-10-27
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-10-13
     Assets
     Expenses:Drinks       2 USD
 
@@ -1456,317 +1460,257 @@
 
 2014-10-9
     Assets
-    Expenses:Drinks       2 USD
-
-2014-10-5
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-10-3
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-10-17
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-10-8
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-10-12
-    Assets
     Expenses:Drinks       3 USD
 
-2014-10-16
+2014-10-25
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Books       9 USD
 
-2014-10-6
+2014-10-20
     Assets
-    Expenses:Books       8 USD
+    Expenses:Books       83 USD
 
-2014-10-21
+2014-10-26
     Assets
-    Expenses:Books       100 USD
-
-2014-10-24
-    Assets
-    Assets:Savings       206 USD
-
-2014-11-13
-    Assets
-    Income       -2494 USD
-
-2014-11-13
-    Assets
-    Expenses:Rent       1000 USD
-
-2014-11-23
-    Assets
-    Expenses:Services       5 USD
-
-2014-11-10
-    Assets
-    Expenses:Services       11 USD
-
-2014-11-16
-    Assets
-    Expenses:Services       23 USD
-
-2014-11-11
-    Assets
-    Expenses:Food       35 USD
+    Assets:Savings       -175 USD
 
 2014-11-14
     Assets
-    Expenses:Food       43 USD
-
-2014-11-2
-    Assets
-    Expenses:Food       44 USD
-
-2014-11-2
-    Assets
-    Expenses:Food       18 USD
+    Income       -2069 USD
 
 2014-11-12
     Assets
-    Expenses:Food       35 USD
-
-2014-11-1
-    Assets
-    Expenses:Food       18 USD
-
-2014-11-26
-    Assets
-    Expenses:Food       26 USD
-
-2014-11-13
-    Assets
-    Expenses:Food       39 USD
-
-2014-11-28
-    Assets
-    Expenses:Food       37 USD
-
-2014-11-7
-    Assets
-    Expenses:Food       13 USD
-
-2014-11-27
-    Assets
-    Expenses:Food       32 USD
-
-2014-11-4
-    Assets
-    Expenses:Food       40 USD
-
-2014-11-1
-    Assets
-    Expenses:Food       22 USD
-
-2014-11-24
-    Assets
-    Expenses:Food       50 USD
-
-2014-11-24
-    Assets
-    Expenses:Food       51 USD
-
-2014-11-18
-    Assets
-    Expenses:Travel       423 USD
-
-2014-11-19
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-11-28
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-11-15
-    Assets
-    Expenses:Drinks       3 USD
-
-2014-11-19
-    Assets
-    Expenses:Drinks       4 USD
-
-2014-11-4
-    Assets
-    Expenses:Drinks       1 USD
-
-2014-11-21
-    Assets
-    Expenses:Drinks       3 USD
-
-2014-11-13
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-11-25
-    Assets
-    Expenses:Drinks       1 USD
+    Expenses:Rent       1000 USD
 
 2014-11-14
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Services       24 USD
 
-2014-11-6
+2014-11-21
+    Assets
+    Expenses:Services       28 USD
+
+2014-11-12
+    Assets
+    Expenses:Services       20 USD
+
+2014-11-8
+    Assets
+    Expenses:Food       14 USD
+
+2014-11-10
+    Assets
+    Expenses:Food       26 USD
+
+2014-11-14
+    Assets
+    Expenses:Food       29 USD
+
+2014-11-5
+    Assets
+    Expenses:Food       47 USD
+
+2014-11-22
+    Assets
+    Expenses:Food       24 USD
+
+2014-11-17
+    Assets
+    Expenses:Food       25 USD
+
+2014-11-28
+    Assets
+    Expenses:Food       32 USD
+
+2014-11-14
+    Assets
+    Expenses:Food       25 USD
+
+2014-11-3
+    Assets
+    Expenses:Food       45 USD
+
+2014-11-15
+    Assets
+    Expenses:Food       30 USD
+
+2014-11-28
+    Assets
+    Expenses:Food       45 USD
+
+2014-11-27
+    Assets
+    Expenses:Food       53 USD
+
+2014-11-26
+    Assets
+    Expenses:Food       31 USD
+
+2014-11-18
+    Assets
+    Expenses:Food       29 USD
+
+2014-11-18
+    Assets
+    Expenses:Food       50 USD
+
+2014-11-2
+    Assets
+    Expenses:Travel       320 USD
+
+2014-11-28
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-11-12
+    Assets
+    Expenses:Drinks       6 USD
+
+2014-11-24
     Assets
     Expenses:Drinks       3 USD
+
+2014-11-5
+    Assets
+    Expenses:Drinks       5 USD
+
+2014-11-28
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-11-25
+    Assets
+    Expenses:Drinks       4 USD
 
 2014-11-13
     Assets
     Expenses:Drinks       3 USD
 
-2014-11-16
+2014-11-14
     Assets
-    Expenses:Drinks       1 USD
-
-2014-11-11
-    Assets
-    Expenses:Books       98 USD
+    Expenses:Drinks       2 USD
 
 2014-11-10
     Assets
-    Expenses:Books       29 USD
+    Expenses:Drinks       4 USD
 
 2014-11-17
     Assets
-    Assets:Savings       224 USD
+    Expenses:Drinks       4 USD
 
-2014-12-11
+2014-11-7
     Assets
-    Income       -2462 USD
+    Expenses:Drinks       5 USD
 
-2014-12-11
+2014-11-12
+    Assets
+    Expenses:Books       12 USD
+
+2014-11-1
+    Assets
+    Expenses:Books       27 USD
+
+2014-11-25
+    Assets
+    Assets:Savings       384 USD
+
+2014-12-14
+    Assets
+    Income       -2099 USD
+
+2014-12-12
     Assets
     Expenses:Rent       1000 USD
 
-2014-12-20
+2014-12-23
     Assets
-    Expenses:Services       27 USD
+    Expenses:Services       29 USD
 
-2014-12-25
+2014-12-10
     Assets
-    Expenses:Services       27 USD
-
-2014-12-17
-    Assets
-    Expenses:Services       24 USD
-
-2014-12-24
-    Assets
-    Expenses:Food       44 USD
-
-2014-12-11
-    Assets
-    Expenses:Food       35 USD
-
-2014-12-5
-    Assets
-    Expenses:Food       18 USD
-
-2014-12-26
-    Assets
-    Expenses:Food       26 USD
-
-2014-12-27
-    Assets
-    Expenses:Food       33 USD
-
-2014-12-27
-    Assets
-    Expenses:Food       38 USD
-
-2014-12-2
-    Assets
-    Expenses:Food       26 USD
+    Expenses:Services       25 USD
 
 2014-12-13
     Assets
-    Expenses:Food       53 USD
+    Expenses:Services       7 USD
 
-2014-12-20
+2014-12-13
     Assets
-    Expenses:Food       53 USD
+    Expenses:Food       44 USD
 
-2014-12-25
+2014-12-28
     Assets
-    Expenses:Food       42 USD
+    Expenses:Food       50 USD
 
-2014-12-8
+2014-12-23
     Assets
-    Expenses:Food       30 USD
+    Expenses:Food       51 USD
+
+2014-12-7
+    Assets
+    Expenses:Food       46 USD
 
 2014-12-6
     Assets
-    Expenses:Food       17 USD
+    Expenses:Food       13 USD
 
-2014-12-22
+2014-12-5
+    Assets
+    Expenses:Food       23 USD
+
+2014-12-24
+    Assets
+    Expenses:Food       22 USD
+
+2014-12-13
+    Assets
+    Expenses:Food       33 USD
+
+2014-12-6
+    Assets
+    Expenses:Food       48 USD
+
+2014-12-17
+    Assets
+    Expenses:Food       33 USD
+
+2014-12-25
     Assets
     Expenses:Food       34 USD
 
 2014-12-15
     Assets
-    Expenses:Food       40 USD
+    Expenses:Food       21 USD
 
-2014-12-2
+2014-12-25
     Assets
-    Expenses:Food       45 USD
+    Expenses:Food       21 USD
 
-2014-12-27
+2014-12-13
     Assets
-    Expenses:Travel       276 USD
-
-2014-12-22
-    Assets
-    Expenses:Drinks       3 USD
-
-2014-12-12
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-12-26
-    Assets
-    Expenses:Drinks       5 USD
-
-2014-12-17
-    Assets
-    Expenses:Drinks       2 USD
-
-2014-12-23
-    Assets
-    Expenses:Drinks       2 USD
+    Expenses:Food       52 USD
 
 2014-12-11
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       17 USD
 
-2014-12-5
+2014-12-2
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Travel       500 USD
 
-2014-12-6
-    Assets
-    Expenses:Drinks       4 USD
-
-2014-12-20
+2014-12-10
     Assets
     Expenses:Drinks       4 USD
 
-2014-12-19
+2014-12-23
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Drinks       4 USD
 
-2014-12-16
+2014-12-11
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Drinks       1 USD
 
-2014-12-1
+2014-12-18
     Assets
     Expenses:Drinks       4 USD
 
@@ -1774,739 +1718,751 @@
     Assets
     Expenses:Drinks       4 USD
 
-2014-12-3
+2014-12-11
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Drinks       3 USD
+
+2014-12-11
+    Assets
+    Expenses:Drinks       4 USD
+
+2014-12-23
+    Assets
+    Expenses:Drinks       2 USD
+
+2014-12-25
+    Assets
+    Expenses:Drinks       1 USD
 
 2014-12-27
     Assets
-    Expenses:Books       88 USD
+    Expenses:Books       97 USD
 
-2014-12-24
+2014-12-28
     Assets
-    Expenses:Books       55 USD
+    Expenses:Books       23 USD
 
-2014-12-13
+2014-12-26
     Assets
-    Assets:Savings       251 USD
+    Assets:Savings       6 USD
 
-2015-1-12
+2015-1-14
     Assets
-    Income       -2560 USD
+    Income       -2177 USD
 
-2015-1-15
+2015-1-10
     Assets
     Expenses:Rent       1000 USD
 
-2015-1-22
+2015-1-18
     Assets
-    Expenses:Services       13 USD
+    Expenses:Services       12 USD
 
-2015-1-12
+2015-1-19
     Assets
-    Expenses:Services       19 USD
+    Expenses:Services       23 USD
 
 2015-1-16
     Assets
-    Expenses:Services       10 USD
+    Expenses:Services       21 USD
 
-2015-1-22
+2015-1-12
     Assets
-    Expenses:Food       53 USD
+    Expenses:Food       21 USD
 
 2015-1-26
     Assets
-    Expenses:Food       41 USD
+    Expenses:Food       49 USD
 
-2015-1-11
+2015-1-25
+    Assets
+    Expenses:Food       18 USD
+
+2015-1-27
     Assets
     Expenses:Food       51 USD
 
-2015-1-14
+2015-1-26
     Assets
-    Expenses:Food       46 USD
+    Expenses:Food       16 USD
 
-2015-1-25
+2015-1-5
     Assets
-    Expenses:Food       38 USD
+    Expenses:Food       32 USD
 
-2015-1-25
+2015-1-24
     Assets
-    Expenses:Food       50 USD
+    Expenses:Food       18 USD
 
-2015-1-23
+2015-1-7
     Assets
-    Expenses:Food       24 USD
-
-2015-1-14
-    Assets
-    Expenses:Food       50 USD
-
-2015-1-3
-    Assets
-    Expenses:Food       14 USD
-
-2015-1-6
-    Assets
-    Expenses:Food       49 USD
-
-2015-1-1
-    Assets
-    Expenses:Food       46 USD
+    Expenses:Food       52 USD
 
 2015-1-28
     Assets
-    Expenses:Food       51 USD
+    Expenses:Food       33 USD
 
-2015-1-3
-    Assets
-    Expenses:Food       17 USD
-
-2015-1-3
-    Assets
-    Expenses:Food       53 USD
-
-2015-1-19
+2015-1-5
     Assets
     Expenses:Food       27 USD
 
 2015-1-3
     Assets
-    Expenses:Travel       437 USD
-
-2015-1-13
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-1-12
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-1-11
-    Assets
-    Expenses:Drinks       1 USD
-
-2015-1-18
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-1-23
-    Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       14 USD
 
 2015-1-1
     Assets
-    Expenses:Drinks       5 USD
-
-2015-1-6
-    Assets
-    Expenses:Drinks       1 USD
+    Expenses:Food       44 USD
 
 2015-1-17
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Food       48 USD
 
-2015-1-18
+2015-1-2
     Assets
-    Expenses:Drinks       1 USD
+    Expenses:Food       24 USD
 
-2015-1-7
+2015-1-23
+    Assets
+    Expenses:Food       25 USD
+
+2015-1-10
+    Assets
+    Expenses:Travel       98 USD
+
+2015-1-10
     Assets
     Expenses:Drinks       6 USD
 
 2015-1-14
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Drinks       1 USD
 
-2015-1-27
+2015-1-21
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Drinks       2 USD
 
-2015-1-18
+2015-1-26
     Assets
-    Expenses:Books       13 USD
+    Expenses:Drinks       5 USD
+
+2015-1-15
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-1-11
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-1-15
+    Assets
+    Expenses:Drinks       1 USD
 
 2015-1-28
     Assets
-    Expenses:Books       63 USD
+    Expenses:Drinks       2 USD
 
-2015-1-24
+2015-1-5
     Assets
-    Assets:Savings       134 USD
+    Expenses:Drinks       1 USD
 
-2015-2-11
+2015-1-22
     Assets
-    Income       -2366 USD
+    Expenses:Drinks       1 USD
 
-2015-2-11
+2015-1-8
     Assets
-    Expenses:Rent       1000 USD
+    Expenses:Drinks       3 USD
 
-2015-2-10
+2015-1-12
     Assets
-    Expenses:Services       16 USD
+    Expenses:Drinks       1 USD
 
-2015-2-15
+2015-1-19
     Assets
-    Expenses:Services       6 USD
+    Expenses:Drinks       5 USD
 
-2015-2-15
+2015-1-27
     Assets
-    Expenses:Services       6 USD
+    Expenses:Books       81 USD
+
+2015-1-27
+    Assets
+    Expenses:Books       94 USD
+
+2015-1-19
+    Assets
+    Assets:Savings       137 USD
+
+2015-2-14
+    Assets
+    Income       -2102 USD
 
 2015-2-13
     Assets
-    Expenses:Food       34 USD
-
-2015-2-26
-    Assets
-    Expenses:Food       46 USD
-
-2015-2-8
-    Assets
-    Expenses:Food       19 USD
-
-2015-2-10
-    Assets
-    Expenses:Food       49 USD
-
-2015-2-21
-    Assets
-    Expenses:Food       44 USD
+    Expenses:Rent       1000 USD
 
 2015-2-20
     Assets
-    Expenses:Food       31 USD
+    Expenses:Services       18 USD
 
 2015-2-11
     Assets
-    Expenses:Food       20 USD
+    Expenses:Services       19 USD
 
-2015-2-3
+2015-2-15
     Assets
-    Expenses:Food       35 USD
+    Expenses:Services       4 USD
 
-2015-2-27
+2015-2-24
     Assets
     Expenses:Food       31 USD
 
-2015-2-5
-    Assets
-    Expenses:Food       49 USD
-
-2015-2-26
+2015-2-22
     Assets
     Expenses:Food       16 USD
 
 2015-2-21
     Assets
-    Expenses:Food       48 USD
-
-2015-2-15
-    Assets
-    Expenses:Food       24 USD
-
-2015-2-25
-    Assets
-    Expenses:Food       40 USD
-
-2015-2-8
-    Assets
-    Expenses:Food       15 USD
-
-2015-2-27
-    Assets
-    Expenses:Travel       299 USD
-
-2015-2-10
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-2-3
-    Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       49 USD
 
 2015-2-23
     Assets
-    Expenses:Drinks       5 USD
-
-2015-2-19
-    Assets
-    Expenses:Drinks       2 USD
+    Expenses:Food       16 USD
 
 2015-2-18
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       51 USD
 
-2015-2-25
+2015-2-20
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Food       40 USD
 
-2015-2-14
+2015-2-9
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Food       43 USD
 
-2015-2-10
+2015-2-20
     Assets
-    Expenses:Drinks       2 USD
-
-2015-2-10
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-2-22
-    Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       17 USD
 
 2015-2-19
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Food       51 USD
 
-2015-2-5
+2015-2-2
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Food       21 USD
+
+2015-2-16
+    Assets
+    Expenses:Food       20 USD
+
+2015-2-20
+    Assets
+    Expenses:Food       36 USD
+
+2015-2-8
+    Assets
+    Expenses:Food       45 USD
 
 2015-2-3
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       14 USD
 
-2015-2-22
+2015-2-14
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       34 USD
 
-2015-2-22
+2015-2-1
     Assets
-    Expenses:Books       56 USD
+    Expenses:Travel       193 USD
 
-2015-2-28
+2015-2-5
     Assets
-    Expenses:Books       78 USD
+    Expenses:Drinks       4 USD
+
+2015-2-11
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-2-18
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-2-16
+    Assets
+    Expenses:Drinks       3 USD
+
+2015-2-3
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-2-27
+    Assets
+    Expenses:Drinks       2 USD
 
 2015-2-17
     Assets
-    Assets:Savings       318 USD
+    Expenses:Drinks       4 USD
 
-2015-3-13
+2015-2-4
     Assets
-    Income       -2790 USD
+    Expenses:Drinks       3 USD
 
-2015-3-10
+2015-2-13
     Assets
-    Expenses:Rent       1000 USD
+    Expenses:Drinks       2 USD
 
-2015-3-10
+2015-2-15
     Assets
-    Expenses:Services       27 USD
+    Expenses:Drinks       3 USD
+
+2015-2-1
+    Assets
+    Expenses:Drinks       3 USD
+
+2015-2-2
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-2-6
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-2-4
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-2-1
+    Assets
+    Expenses:Books       59 USD
+
+2015-2-18
+    Assets
+    Expenses:Books       91 USD
+
+2015-2-16
+    Assets
+    Assets:Savings       -124 USD
+
+2015-3-12
+    Assets
+    Income       -2034 USD
 
 2015-3-14
     Assets
-    Expenses:Services       13 USD
+    Expenses:Rent       1000 USD
 
-2015-3-24
+2015-3-21
     Assets
-    Expenses:Services       31 USD
+    Expenses:Services       7 USD
 
-2015-3-3
+2015-3-19
+    Assets
+    Expenses:Services       22 USD
+
+2015-3-18
+    Assets
+    Expenses:Services       20 USD
+
+2015-3-22
+    Assets
+    Expenses:Food       52 USD
+
+2015-3-21
+    Assets
+    Expenses:Food       18 USD
+
+2015-3-14
+    Assets
+    Expenses:Food       38 USD
+
+2015-3-14
     Assets
     Expenses:Food       20 USD
 
 2015-3-22
     Assets
-    Expenses:Food       33 USD
+    Expenses:Food       24 USD
 
-2015-3-9
+2015-3-27
     Assets
-    Expenses:Food       13 USD
+    Expenses:Food       30 USD
 
-2015-3-18
-    Assets
-    Expenses:Food       20 USD
-
-2015-3-16
+2015-3-5
     Assets
     Expenses:Food       41 USD
 
-2015-3-13
+2015-3-17
     Assets
-    Expenses:Food       24 USD
+    Expenses:Food       23 USD
 
-2015-3-23
+2015-3-6
     Assets
-    Expenses:Food       26 USD
+    Expenses:Food       19 USD
 
-2015-3-13
-    Assets
-    Expenses:Food       17 USD
-
-2015-3-28
+2015-3-20
     Assets
     Expenses:Food       32 USD
 
-2015-3-4
+2015-3-27
     Assets
-    Expenses:Food       31 USD
+    Expenses:Food       39 USD
 
-2015-3-14
+2015-3-22
     Assets
-    Expenses:Food       24 USD
-
-2015-3-10
-    Assets
-    Expenses:Food       50 USD
-
-2015-3-12
-    Assets
-    Expenses:Food       20 USD
-
-2015-3-14
-    Assets
-    Expenses:Food       14 USD
-
-2015-3-25
-    Assets
-    Expenses:Food       42 USD
-
-2015-3-23
-    Assets
-    Expenses:Travel       58 USD
-
-2015-3-3
-    Assets
-    Expenses:Drinks       1 USD
-
-2015-3-24
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-3-11
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-3-9
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-3-12
-    Assets
-    Expenses:Drinks       2 USD
+    Expenses:Food       25 USD
 
 2015-3-19
     Assets
+    Expenses:Food       29 USD
+
+2015-3-16
+    Assets
+    Expenses:Food       38 USD
+
+2015-3-9
+    Assets
+    Expenses:Food       16 USD
+
+2015-3-1
+    Assets
+    Expenses:Travel       169 USD
+
+2015-3-9
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-3-27
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-3-10
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-3-6
+    Assets
     Expenses:Drinks       4 USD
 
-2015-3-15
+2015-3-11
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-3-11
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-3-26
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-3-1
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-3-27
     Assets
     Expenses:Drinks       1 USD
+
+2015-3-12
+    Assets
+    Expenses:Drinks       6 USD
 
 2015-3-21
     Assets
     Expenses:Drinks       1 USD
 
+2015-3-23
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-3-5
+    Assets
+    Expenses:Drinks       6 USD
+
 2015-3-16
     Assets
-    Expenses:Drinks       1 USD
+    Expenses:Books       9 USD
 
-2015-3-1
+2015-3-19
     Assets
-    Expenses:Drinks       4 USD
-
-2015-3-10
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-3-4
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-3-3
-    Assets
-    Expenses:Drinks       6 USD
+    Expenses:Books       33 USD
 
 2015-3-24
     Assets
-    Expenses:Books       23 USD
+    Assets:Savings       117 USD
 
-2015-3-22
+2015-4-11
     Assets
-    Expenses:Books       93 USD
-
-2015-3-25
-    Assets
-    Assets:Savings       350 USD
-
-2015-4-15
-    Assets
-    Income       -2144 USD
+    Income       -2174 USD
 
 2015-4-13
     Assets
     Expenses:Rent       1000 USD
 
-2015-4-12
-    Assets
-    Expenses:Services       10 USD
-
-2015-4-10
-    Assets
-    Expenses:Services       3 USD
-
-2015-4-17
+2015-4-11
     Assets
     Expenses:Services       16 USD
 
-2015-4-5
+2015-4-14
     Assets
-    Expenses:Food       39 USD
-
-2015-4-6
-    Assets
-    Expenses:Food       43 USD
-
-2015-4-11
-    Assets
-    Expenses:Food       30 USD
-
-2015-4-28
-    Assets
-    Expenses:Food       39 USD
-
-2015-4-13
-    Assets
-    Expenses:Food       24 USD
-
-2015-4-19
-    Assets
-    Expenses:Food       33 USD
-
-2015-4-21
-    Assets
-    Expenses:Food       49 USD
+    Expenses:Services       7 USD
 
 2015-4-15
     Assets
-    Expenses:Food       39 USD
+    Expenses:Services       21 USD
 
-2015-4-25
-    Assets
-    Expenses:Food       20 USD
-
-2015-4-16
-    Assets
-    Expenses:Food       15 USD
-
-2015-4-21
-    Assets
-    Expenses:Food       15 USD
-
-2015-4-27
-    Assets
-    Expenses:Food       47 USD
-
-2015-4-14
+2015-4-22
     Assets
     Expenses:Food       23 USD
 
+2015-4-7
+    Assets
+    Expenses:Food       48 USD
+
+2015-4-27
+    Assets
+    Expenses:Food       27 USD
+
+2015-4-12
+    Assets
+    Expenses:Food       38 USD
+
+2015-4-8
+    Assets
+    Expenses:Food       27 USD
+
+2015-4-4
+    Assets
+    Expenses:Food       50 USD
+
+2015-4-27
+    Assets
+    Expenses:Food       14 USD
+
 2015-4-17
     Assets
-    Expenses:Food       49 USD
+    Expenses:Food       47 USD
 
-2015-4-19
+2015-4-9
+    Assets
+    Expenses:Food       46 USD
+
+2015-4-16
+    Assets
+    Expenses:Food       32 USD
+
+2015-4-24
+    Assets
+    Expenses:Food       42 USD
+
+2015-4-10
+    Assets
+    Expenses:Food       51 USD
+
+2015-4-26
     Assets
     Expenses:Food       30 USD
 
-2015-4-18
+2015-4-23
     Assets
-    Expenses:Travel       73 USD
-
-2015-4-9
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-4-21
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-4-9
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-4-5
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-4-13
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-4-25
-    Assets
-    Expenses:Drinks       1 USD
+    Expenses:Food       45 USD
 
 2015-4-17
     Assets
+    Expenses:Food       38 USD
+
+2015-4-17
+    Assets
+    Expenses:Travel       210 USD
+
+2015-4-27
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-4-2
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-4-27
+    Assets
     Expenses:Drinks       4 USD
 
-2015-4-19
+2015-4-12
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-4-3
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-4-20
     Assets
     Expenses:Drinks       6 USD
 
 2015-4-22
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Drinks       4 USD
 
 2015-4-6
     Assets
-    Expenses:Drinks       3 USD
-
-2015-4-21
-    Assets
-    Expenses:Drinks       4 USD
-
-2015-4-4
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-4-10
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-4-26
-    Assets
-    Expenses:Books       79 USD
-
-2015-4-16
-    Assets
-    Expenses:Books       13 USD
+    Expenses:Drinks       2 USD
 
 2015-4-20
     Assets
-    Assets:Savings       236 USD
+    Expenses:Drinks       5 USD
 
-2015-5-13
+2015-4-3
     Assets
-    Income       -2307 USD
+    Expenses:Drinks       2 USD
+
+2015-4-25
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-4-17
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-4-17
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-4-10
+    Assets
+    Expenses:Books       96 USD
+
+2015-4-28
+    Assets
+    Expenses:Books       67 USD
+
+2015-4-15
+    Assets
+    Assets:Savings       211 USD
+
+2015-5-10
+    Assets
+    Income       -2016 USD
 
 2015-5-12
     Assets
     Expenses:Rent       1000 USD
 
-2015-5-18
-    Assets
-    Expenses:Services       12 USD
-
-2015-5-19
-    Assets
-    Expenses:Services       23 USD
-
 2015-5-11
     Assets
     Expenses:Services       22 USD
 
-2015-5-7
+2015-5-23
     Assets
-    Expenses:Food       48 USD
+    Expenses:Services       27 USD
 
-2015-5-22
+2015-5-24
     Assets
-    Expenses:Food       17 USD
+    Expenses:Services       21 USD
+
+2015-5-19
+    Assets
+    Expenses:Food       28 USD
 
 2015-5-26
     Assets
-    Expenses:Food       43 USD
+    Expenses:Food       37 USD
 
-2015-5-22
+2015-5-1
+    Assets
+    Expenses:Food       24 USD
+
+2015-5-15
     Assets
     Expenses:Food       48 USD
 
+2015-5-6
+    Assets
+    Expenses:Food       28 USD
+
+2015-5-9
+    Assets
+    Expenses:Food       43 USD
+
 2015-5-25
     Assets
-    Expenses:Food       50 USD
+    Expenses:Food       39 USD
 
-2015-5-20
+2015-5-5
     Assets
-    Expenses:Food       50 USD
+    Expenses:Food       15 USD
 
-2015-5-16
-    Assets
-    Expenses:Food       36 USD
-
-2015-5-18
-    Assets
-    Expenses:Food       13 USD
-
-2015-5-16
-    Assets
-    Expenses:Food       30 USD
-
-2015-5-21
-    Assets
-    Expenses:Food       44 USD
-
-2015-5-2
+2015-5-14
     Assets
     Expenses:Food       15 USD
 
 2015-5-2
     Assets
-    Expenses:Food       26 USD
-
-2015-5-19
-    Assets
-    Expenses:Food       38 USD
-
-2015-5-24
-    Assets
-    Expenses:Food       17 USD
+    Expenses:Food       19 USD
 
 2015-5-28
     Assets
     Expenses:Food       17 USD
 
-2015-5-2
+2015-5-15
     Assets
-    Expenses:Travel       67 USD
+    Expenses:Food       35 USD
 
-2015-5-14
+2015-5-15
     Assets
-    Expenses:Drinks       5 USD
-
-2015-5-24
-    Assets
-    Expenses:Drinks       1 USD
+    Expenses:Food       32 USD
 
 2015-5-21
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Food       14 USD
 
-2015-5-6
+2015-5-1
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       38 USD
 
-2015-5-6
+2015-5-3
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Travel       222 USD
+
+2015-5-24
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-5-26
+    Assets
+    Expenses:Drinks       2 USD
 
 2015-5-8
     Assets
-    Expenses:Drinks       5 USD
-
-2015-5-14
-    Assets
-    Expenses:Drinks       2 USD
+    Expenses:Drinks       6 USD
 
 2015-5-10
     Assets
-    Expenses:Drinks       2 USD
-
-2015-5-27
-    Assets
     Expenses:Drinks       4 USD
 
-2015-5-24
+2015-5-3
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-5-4
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-5-2
     Assets
     Expenses:Drinks       4 USD
 
 2015-5-15
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-5-14
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-5-18
     Assets
     Expenses:Drinks       4 USD
 
@@ -2514,1147 +2470,1131 @@
     Assets
     Expenses:Drinks       3 USD
 
-2015-5-6
+2015-5-9
     Assets
     Expenses:Drinks       1 USD
 
-2015-5-3
+2015-5-27
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Books       46 USD
 
-2015-5-22
+2015-5-14
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Books       23 USD
 
-2015-5-26
+2015-5-11
     Assets
-    Expenses:Books       79 USD
-
-2015-5-9
-    Assets
-    Expenses:Books       97 USD
-
-2015-5-4
-    Assets
-    Assets:Savings       134 USD
+    Assets:Savings       27 USD
 
 2015-6-14
     Assets
-    Income       -2512 USD
+    Income       -2083 USD
 
 2015-6-14
     Assets
     Expenses:Rent       1000 USD
 
-2015-6-18
+2015-6-23
     Assets
-    Expenses:Services       21 USD
-
-2015-6-20
-    Assets
-    Expenses:Services       6 USD
-
-2015-6-14
-    Assets
-    Expenses:Services       19 USD
-
-2015-6-12
-    Assets
-    Expenses:Food       15 USD
-
-2015-6-28
-    Assets
-    Expenses:Food       14 USD
-
-2015-6-9
-    Assets
-    Expenses:Food       39 USD
-
-2015-6-18
-    Assets
-    Expenses:Food       35 USD
-
-2015-6-5
-    Assets
-    Expenses:Food       20 USD
-
-2015-6-7
-    Assets
-    Expenses:Food       50 USD
-
-2015-6-9
-    Assets
-    Expenses:Food       44 USD
+    Expenses:Services       28 USD
 
 2015-6-13
     Assets
-    Expenses:Food       41 USD
+    Expenses:Services       21 USD
 
-2015-6-6
+2015-6-16
     Assets
-    Expenses:Food       48 USD
+    Expenses:Services       26 USD
+
+2015-6-18
+    Assets
+    Expenses:Food       39 USD
+
+2015-6-11
+    Assets
+    Expenses:Food       22 USD
+
+2015-6-25
+    Assets
+    Expenses:Food       34 USD
+
+2015-6-4
+    Assets
+    Expenses:Food       38 USD
+
+2015-6-24
+    Assets
+    Expenses:Food       17 USD
+
+2015-6-24
+    Assets
+    Expenses:Food       25 USD
+
+2015-6-27
+    Assets
+    Expenses:Food       39 USD
+
+2015-6-24
+    Assets
+    Expenses:Food       37 USD
 
 2015-6-17
+    Assets
+    Expenses:Food       17 USD
+
+2015-6-17
+    Assets
+    Expenses:Food       13 USD
+
+2015-6-5
+    Assets
+    Expenses:Food       45 USD
+
+2015-6-15
+    Assets
+    Expenses:Food       29 USD
+
+2015-6-4
+    Assets
+    Expenses:Food       46 USD
+
+2015-6-17
+    Assets
+    Expenses:Food       18 USD
+
+2015-6-10
     Assets
     Expenses:Food       35 USD
 
-2015-6-17
+2015-6-7
     Assets
-    Expenses:Food       20 USD
+    Expenses:Travel       265 USD
 
-2015-6-14
+2015-6-8
     Assets
-    Expenses:Food       44 USD
+    Expenses:Drinks       4 USD
+
+2015-6-9
+    Assets
+    Expenses:Drinks       1 USD
 
 2015-6-20
     Assets
-    Expenses:Food       28 USD
-
-2015-6-16
-    Assets
-    Expenses:Food       19 USD
-
-2015-6-1
-    Assets
-    Expenses:Food       27 USD
-
-2015-6-16
-    Assets
-    Expenses:Travel       251 USD
-
-2015-6-6
-    Assets
     Expenses:Drinks       5 USD
+
+2015-6-17
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-6-13
+    Assets
+    Expenses:Drinks       3 USD
+
+2015-6-7
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-6-9
+    Assets
+    Expenses:Drinks       4 USD
 
 2015-6-24
     Assets
     Expenses:Drinks       5 USD
 
-2015-6-18
+2015-6-16
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Drinks       2 USD
 
 2015-6-4
     Assets
-    Expenses:Drinks       1 USD
-
-2015-6-8
-    Assets
     Expenses:Drinks       5 USD
 
-2015-6-25
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-6-2
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-6-1
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-6-23
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-6-16
-    Assets
-    Expenses:Drinks       4 USD
-
-2015-6-11
-    Assets
-    Expenses:Drinks       1 USD
-
-2015-6-19
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-6-28
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-6-10
-    Assets
-    Expenses:Books       18 USD
-
-2015-6-18
-    Assets
-    Expenses:Books       4 USD
-
-2015-6-23
-    Assets
-    Assets:Savings       162 USD
-
-2015-7-12
-    Assets
-    Income       -2271 USD
-
-2015-7-11
-    Assets
-    Expenses:Rent       1000 USD
-
-2015-7-16
-    Assets
-    Expenses:Services       28 USD
-
-2015-7-24
-    Assets
-    Expenses:Services       7 USD
-
-2015-7-11
-    Assets
-    Expenses:Services       14 USD
-
-2015-7-27
-    Assets
-    Expenses:Food       47 USD
-
-2015-7-3
-    Assets
-    Expenses:Food       21 USD
-
-2015-7-9
-    Assets
-    Expenses:Food       25 USD
-
-2015-7-25
-    Assets
-    Expenses:Food       42 USD
-
-2015-7-28
-    Assets
-    Expenses:Food       35 USD
-
-2015-7-11
-    Assets
-    Expenses:Food       47 USD
-
-2015-7-9
-    Assets
-    Expenses:Food       45 USD
-
-2015-7-5
-    Assets
-    Expenses:Food       32 USD
-
-2015-7-12
-    Assets
-    Expenses:Food       41 USD
-
-2015-7-9
-    Assets
-    Expenses:Food       19 USD
-
-2015-7-2
-    Assets
-    Expenses:Food       13 USD
-
-2015-7-7
-    Assets
-    Expenses:Food       49 USD
-
-2015-7-16
-    Assets
-    Expenses:Food       42 USD
-
-2015-7-18
-    Assets
-    Expenses:Food       15 USD
-
-2015-7-13
-    Assets
-    Expenses:Food       47 USD
-
-2015-7-5
-    Assets
-    Expenses:Travel       78 USD
-
-2015-7-14
-    Assets
-    Expenses:Drinks       4 USD
-
-2015-7-24
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-7-4
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-7-5
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-7-13
-    Assets
-    Expenses:Drinks       1 USD
-
-2015-7-14
+2015-6-20
     Assets
     Expenses:Drinks       3 USD
 
-2015-7-8
+2015-6-24
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Books       67 USD
 
-2015-7-27
+2015-6-27
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Books       15 USD
 
-2015-7-3
+2015-6-2
     Assets
-    Expenses:Drinks       4 USD
+    Assets:Savings       93 USD
 
-2015-7-9
+2015-7-11
     Assets
-    Expenses:Drinks       5 USD
+    Income       -2109 USD
 
-2015-7-1
-    Assets
-    Expenses:Drinks       4 USD
-
-2015-7-10
-    Assets
-    Expenses:Drinks       1 USD
-
-2015-7-28
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-7-27
-    Assets
-    Expenses:Books       26 USD
-
-2015-7-6
-    Assets
-    Expenses:Books       54 USD
-
-2015-7-7
-    Assets
-    Assets:Savings       277 USD
-
-2015-8-12
-    Assets
-    Income       -2547 USD
-
-2015-8-12
+2015-7-11
     Assets
     Expenses:Rent       1000 USD
 
-2015-8-19
+2015-7-15
     Assets
-    Expenses:Services       22 USD
+    Expenses:Services       12 USD
 
-2015-8-18
+2015-7-23
     Assets
-    Expenses:Services       23 USD
+    Expenses:Services       6 USD
 
-2015-8-20
+2015-7-11
     Assets
-    Expenses:Services       33 USD
+    Expenses:Services       9 USD
 
-2015-8-16
+2015-7-19
+    Assets
+    Expenses:Food       51 USD
+
+2015-7-24
+    Assets
+    Expenses:Food       24 USD
+
+2015-7-15
+    Assets
+    Expenses:Food       36 USD
+
+2015-7-20
+    Assets
+    Expenses:Food       45 USD
+
+2015-7-11
+    Assets
+    Expenses:Food       39 USD
+
+2015-7-20
+    Assets
+    Expenses:Food       29 USD
+
+2015-7-28
+    Assets
+    Expenses:Food       28 USD
+
+2015-7-23
+    Assets
+    Expenses:Food       30 USD
+
+2015-7-5
+    Assets
+    Expenses:Food       20 USD
+
+2015-7-12
     Assets
     Expenses:Food       15 USD
 
-2015-8-12
+2015-7-24
     Assets
-    Expenses:Food       29 USD
+    Expenses:Food       37 USD
 
-2015-8-7
-    Assets
-    Expenses:Food       32 USD
-
-2015-8-21
+2015-7-12
     Assets
     Expenses:Food       34 USD
 
-2015-8-28
+2015-7-27
     Assets
-    Expenses:Food       38 USD
+    Expenses:Food       13 USD
+
+2015-7-8
+    Assets
+    Expenses:Food       27 USD
+
+2015-7-3
+    Assets
+    Expenses:Food       23 USD
+
+2015-7-14
+    Assets
+    Expenses:Travel       66 USD
+
+2015-7-13
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-7-28
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-7-17
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-7-18
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-7-22
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-7-19
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-7-2
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-7-5
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-7-14
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-7-25
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-7-26
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-7-3
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-7-10
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-7-8
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-7-7
+    Assets
+    Expenses:Books       1 USD
+
+2015-7-22
+    Assets
+    Expenses:Books       80 USD
+
+2015-7-19
+    Assets
+    Assets:Savings       212 USD
 
 2015-8-14
     Assets
-    Expenses:Food       46 USD
+    Income       -2136 USD
 
-2015-8-5
+2015-8-15
     Assets
-    Expenses:Food       34 USD
+    Expenses:Rent       1000 USD
 
-2015-8-24
+2015-8-17
     Assets
-    Expenses:Food       29 USD
+    Expenses:Services       16 USD
 
 2015-8-16
     Assets
-    Expenses:Food       43 USD
+    Expenses:Services       6 USD
+
+2015-8-22
+    Assets
+    Expenses:Services       18 USD
+
+2015-8-27
+    Assets
+    Expenses:Food       21 USD
 
 2015-8-14
     Assets
-    Expenses:Food       41 USD
+    Expenses:Food       13 USD
+
+2015-8-22
+    Assets
+    Expenses:Food       47 USD
+
+2015-8-28
+    Assets
+    Expenses:Food       49 USD
+
+2015-8-15
+    Assets
+    Expenses:Food       48 USD
+
+2015-8-7
+    Assets
+    Expenses:Food       14 USD
 
 2015-8-9
+    Assets
+    Expenses:Food       35 USD
+
+2015-8-13
     Assets
     Expenses:Food       31 USD
 
 2015-8-3
     Assets
-    Expenses:Food       37 USD
-
-2015-8-7
-    Assets
-    Expenses:Food       31 USD
+    Expenses:Food       50 USD
 
 2015-8-13
     Assets
-    Expenses:Food       27 USD
+    Expenses:Food       52 USD
 
-2015-8-2
+2015-8-22
     Assets
-    Expenses:Food       34 USD
+    Expenses:Food       17 USD
 
-2015-8-25
+2015-8-8
     Assets
-    Expenses:Travel       210 USD
+    Expenses:Food       13 USD
 
-2015-8-14
+2015-8-19
     Assets
-    Expenses:Drinks       5 USD
-
-2015-8-15
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-8-6
-    Assets
-    Expenses:Drinks       1 USD
+    Expenses:Food       47 USD
 
 2015-8-24
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Food       33 USD
 
-2015-8-6
+2015-8-21
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       36 USD
 
-2015-8-26
+2015-8-8
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Travel       128 USD
 
-2015-8-17
+2015-8-25
     Assets
-    Expenses:Drinks       2 USD
+    Expenses:Drinks       4 USD
 
 2015-8-10
     Assets
+    Expenses:Drinks       4 USD
+
+2015-8-7
+    Assets
+    Expenses:Drinks       3 USD
+
+2015-8-18
+    Assets
     Expenses:Drinks       1 USD
 
-2015-8-23
+2015-8-20
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-8-1
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-8-9
     Assets
     Expenses:Drinks       6 USD
 
 2015-8-19
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Drinks       5 USD
 
-2015-8-14
+2015-8-21
     Assets
-    Expenses:Drinks       1 USD
+    Expenses:Drinks       3 USD
 
-2015-8-18
+2015-8-3
     Assets
-    Expenses:Books       40 USD
+    Expenses:Drinks       5 USD
 
-2015-8-13
+2015-8-12
     Assets
-    Expenses:Books       96 USD
+    Expenses:Drinks       4 USD
+
+2015-8-12
+    Assets
+    Expenses:Drinks       4 USD
 
 2015-8-28
     Assets
-    Assets:Savings       192 USD
+    Expenses:Books       93 USD
+
+2015-8-21
+    Assets
+    Expenses:Books       81 USD
+
+2015-8-2
+    Assets
+    Assets:Savings       131 USD
 
 2015-9-14
     Assets
-    Income       -2162 USD
+    Income       -2073 USD
 
-2015-9-14
+2015-9-12
     Assets
     Expenses:Rent       1000 USD
 
-2015-9-23
+2015-9-15
     Assets
-    Expenses:Services       14 USD
+    Expenses:Services       15 USD
 
-2015-9-20
+2015-9-12
     Assets
-    Expenses:Services       7 USD
+    Expenses:Services       18 USD
+
+2015-9-12
+    Assets
+    Expenses:Services       23 USD
 
 2015-9-25
-    Assets
-    Expenses:Services       22 USD
-
-2015-9-19
-    Assets
-    Expenses:Food       52 USD
-
-2015-9-18
     Assets
     Expenses:Food       25 USD
 
-2015-9-11
+2015-9-2
     Assets
-    Expenses:Food       23 USD
+    Expenses:Food       51 USD
 
-2015-9-27
+2015-9-3
     Assets
-    Expenses:Food       18 USD
-
-2015-9-7
-    Assets
-    Expenses:Food       47 USD
-
-2015-9-5
-    Assets
-    Expenses:Food       43 USD
+    Expenses:Food       20 USD
 
 2015-9-21
     Assets
-    Expenses:Food       13 USD
+    Expenses:Food       23 USD
 
-2015-9-25
-    Assets
-    Expenses:Food       29 USD
-
-2015-9-17
+2015-9-21
     Assets
     Expenses:Food       35 USD
 
-2015-9-1
+2015-9-6
     Assets
-    Expenses:Food       21 USD
+    Expenses:Food       35 USD
 
-2015-9-14
+2015-9-17
     Assets
-    Expenses:Food       16 USD
+    Expenses:Food       41 USD
 
 2015-9-15
     Assets
-    Expenses:Food       34 USD
+    Expenses:Food       44 USD
 
-2015-9-19
+2015-9-27
     Assets
-    Expenses:Food       36 USD
-
-2015-9-14
-    Assets
-    Expenses:Food       49 USD
-
-2015-9-1
-    Assets
-    Expenses:Food       16 USD
-
-2015-9-8
-    Assets
-    Expenses:Travel       145 USD
+    Expenses:Food       44 USD
 
 2015-9-11
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Food       41 USD
+
+2015-9-1
+    Assets
+    Expenses:Food       25 USD
+
+2015-9-12
+    Assets
+    Expenses:Food       38 USD
+
+2015-9-5
+    Assets
+    Expenses:Food       20 USD
+
+2015-9-10
+    Assets
+    Expenses:Food       18 USD
+
+2015-9-2
+    Assets
+    Expenses:Food       27 USD
+
+2015-9-15
+    Assets
+    Expenses:Travel       415 USD
 
 2015-9-6
     Assets
-    Expenses:Drinks       4 USD
-
-2015-9-13
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-9-25
-    Assets
-    Expenses:Drinks       4 USD
-
-2015-9-15
-    Assets
-    Expenses:Drinks       1 USD
-
-2015-9-14
-    Assets
     Expenses:Drinks       3 USD
 
-2015-9-11
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-9-19
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-9-25
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-9-8
+2015-9-16
     Assets
     Expenses:Drinks       3 USD
 
 2015-9-22
     Assets
+    Expenses:Drinks       4 USD
+
+2015-9-26
+    Assets
+    Expenses:Drinks       3 USD
+
+2015-9-27
+    Assets
     Expenses:Drinks       6 USD
 
-2015-9-7
+2015-9-20
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-9-25
     Assets
     Expenses:Drinks       2 USD
 
 2015-9-5
     Assets
-    Expenses:Books       56 USD
+    Expenses:Drinks       5 USD
 
 2015-9-7
     Assets
-    Expenses:Books       27 USD
+    Expenses:Drinks       6 USD
 
-2015-9-16
+2015-9-9
     Assets
-    Assets:Savings       373 USD
+    Expenses:Drinks       4 USD
 
-2015-10-11
+2015-9-19
     Assets
-    Income       -2782 USD
+    Expenses:Drinks       4 USD
 
-2015-10-12
+2015-9-2
+    Assets
+    Expenses:Books       61 USD
+
+2015-9-15
+    Assets
+    Expenses:Books       33 USD
+
+2015-9-25
+    Assets
+    Assets:Savings       138 USD
+
+2015-10-14
+    Assets
+    Income       -2190 USD
+
+2015-10-15
     Assets
     Expenses:Rent       1000 USD
 
 2015-10-17
     Assets
-    Expenses:Services       8 USD
-
-2015-10-11
-    Assets
-    Expenses:Services       4 USD
+    Expenses:Services       5 USD
 
 2015-10-23
     Assets
     Expenses:Services       27 USD
 
-2015-10-25
+2015-10-19
     Assets
-    Expenses:Food       22 USD
+    Expenses:Services       7 USD
 
-2015-10-1
+2015-10-2
     Assets
-    Expenses:Food       16 USD
-
-2015-10-28
-    Assets
-    Expenses:Food       27 USD
-
-2015-10-17
-    Assets
-    Expenses:Food       36 USD
-
-2015-10-21
-    Assets
-    Expenses:Food       17 USD
+    Expenses:Food       48 USD
 
 2015-10-4
     Assets
-    Expenses:Food       33 USD
+    Expenses:Food       42 USD
 
-2015-10-17
+2015-10-18
     Assets
-    Expenses:Food       47 USD
-
-2015-10-20
-    Assets
-    Expenses:Food       43 USD
-
-2015-10-3
-    Assets
-    Expenses:Food       50 USD
-
-2015-10-24
-    Assets
-    Expenses:Food       49 USD
-
-2015-10-14
-    Assets
-    Expenses:Food       53 USD
-
-2015-10-6
-    Assets
-    Expenses:Food       43 USD
-
-2015-10-3
-    Assets
-    Expenses:Food       41 USD
+    Expenses:Food       37 USD
 
 2015-10-27
     Assets
-    Expenses:Food       51 USD
+    Expenses:Food       24 USD
 
-2015-10-14
+2015-10-26
     Assets
-    Expenses:Food       19 USD
+    Expenses:Food       13 USD
+
+2015-10-7
+    Assets
+    Expenses:Food       37 USD
+
+2015-10-4
+    Assets
+    Expenses:Food       50 USD
+
+2015-10-1
+    Assets
+    Expenses:Food       43 USD
+
+2015-10-10
+    Assets
+    Expenses:Food       48 USD
+
+2015-10-1
+    Assets
+    Expenses:Food       14 USD
+
+2015-10-17
+    Assets
+    Expenses:Food       39 USD
+
+2015-10-24
+    Assets
+    Expenses:Food       40 USD
+
+2015-10-15
+    Assets
+    Expenses:Food       18 USD
 
 2015-10-8
     Assets
-    Expenses:Travel       420 USD
+    Expenses:Food       15 USD
+
+2015-10-18
+    Assets
+    Expenses:Food       31 USD
+
+2015-10-14
+    Assets
+    Expenses:Travel       415 USD
+
+2015-10-3
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-10-12
+    Assets
+    Expenses:Drinks       3 USD
+
+2015-10-28
+    Assets
+    Expenses:Drinks       6 USD
 
 2015-10-8
     Assets
     Expenses:Drinks       6 USD
 
-2015-10-28
-    Assets
-    Expenses:Drinks       4 USD
-
-2015-10-10
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-10-24
+2015-10-16
     Assets
     Expenses:Drinks       2 USD
 
-2015-10-6
+2015-10-20
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-10-25
     Assets
     Expenses:Drinks       3 USD
+
+2015-10-18
+    Assets
+    Expenses:Drinks       2 USD
 
 2015-10-23
     Assets
     Expenses:Drinks       6 USD
 
-2015-10-11
+2015-10-2
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Drinks       2 USD
 
-2015-10-6
+2015-10-25
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-10-21
     Assets
     Expenses:Drinks       5 USD
 
 2015-10-5
     Assets
-    Expenses:Books       21 USD
+    Expenses:Books       14 USD
 
-2015-10-26
-    Assets
-    Expenses:Books       96 USD
-
-2015-10-28
-    Assets
-    Assets:Savings       271 USD
-
-2015-11-15
-    Assets
-    Income       -2407 USD
-
-2015-11-15
-    Assets
-    Expenses:Rent       1000 USD
-
-2015-11-13
-    Assets
-    Expenses:Services       33 USD
-
-2015-11-23
-    Assets
-    Expenses:Services       20 USD
-
-2015-11-17
-    Assets
-    Expenses:Services       25 USD
-
-2015-11-23
-    Assets
-    Expenses:Food       24 USD
-
-2015-11-7
-    Assets
-    Expenses:Food       39 USD
-
-2015-11-16
-    Assets
-    Expenses:Food       29 USD
-
-2015-11-21
-    Assets
-    Expenses:Food       37 USD
-
-2015-11-2
-    Assets
-    Expenses:Food       21 USD
-
-2015-11-14
-    Assets
-    Expenses:Food       38 USD
-
-2015-11-10
-    Assets
-    Expenses:Food       32 USD
-
-2015-11-2
-    Assets
-    Expenses:Food       25 USD
-
-2015-11-25
-    Assets
-    Expenses:Food       27 USD
-
-2015-11-26
-    Assets
-    Expenses:Food       34 USD
-
-2015-11-15
-    Assets
-    Expenses:Food       38 USD
-
-2015-11-14
-    Assets
-    Expenses:Food       13 USD
-
-2015-11-21
-    Assets
-    Expenses:Food       38 USD
-
-2015-11-17
-    Assets
-    Expenses:Food       41 USD
-
-2015-11-24
-    Assets
-    Expenses:Food       27 USD
-
-2015-11-28
-    Assets
-    Expenses:Travel       145 USD
-
-2015-11-3
-    Assets
-    Expenses:Drinks       4 USD
-
-2015-11-9
-    Assets
-    Expenses:Drinks       4 USD
-
-2015-11-19
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-11-22
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-11-6
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-11-3
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-11-18
-    Assets
-    Expenses:Drinks       1 USD
-
-2015-11-25
-    Assets
-    Expenses:Drinks       6 USD
-
-2015-11-18
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-11-8
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-11-21
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-11-9
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-11-22
-    Assets
-    Expenses:Books       94 USD
-
-2015-11-13
+2015-10-1
     Assets
     Expenses:Books       29 USD
 
-2015-11-23
+2015-10-24
     Assets
-    Assets:Savings       233 USD
+    Assets:Savings       359 USD
 
-2015-12-14
+2015-11-13
     Assets
-    Income       -2044 USD
+    Income       -2161 USD
 
-2015-12-14
+2015-11-13
     Assets
     Expenses:Rent       1000 USD
 
-2015-12-21
+2015-11-18
     Assets
-    Expenses:Services       7 USD
+    Expenses:Services       25 USD
 
-2015-12-17
+2015-11-22
     Assets
-    Expenses:Services       33 USD
+    Expenses:Services       18 USD
 
-2015-12-21
+2015-11-13
     Assets
-    Expenses:Services       24 USD
+    Expenses:Services       3 USD
 
-2015-12-24
+2015-11-9
     Assets
-    Expenses:Food       13 USD
+    Expenses:Food       22 USD
 
-2015-12-10
+2015-11-1
     Assets
     Expenses:Food       39 USD
 
-2015-12-16
+2015-11-15
     Assets
-    Expenses:Food       17 USD
+    Expenses:Food       47 USD
 
-2015-12-7
+2015-11-4
     Assets
-    Expenses:Food       25 USD
+    Expenses:Food       24 USD
 
-2015-12-24
+2015-11-22
     Assets
-    Expenses:Food       32 USD
+    Expenses:Food       53 USD
 
-2015-12-12
+2015-11-16
     Assets
-    Expenses:Food       32 USD
+    Expenses:Food       49 USD
 
-2015-12-28
-    Assets
-    Expenses:Food       36 USD
-
-2015-12-15
-    Assets
-    Expenses:Food       19 USD
-
-2015-12-2
+2015-11-17
     Assets
     Expenses:Food       30 USD
 
-2015-12-8
+2015-11-27
     Assets
-    Expenses:Food       32 USD
+    Expenses:Food       39 USD
 
-2015-12-2
+2015-11-3
     Assets
-    Expenses:Food       48 USD
+    Expenses:Food       23 USD
 
-2015-12-26
-    Assets
-    Expenses:Food       32 USD
-
-2015-12-25
-    Assets
-    Expenses:Food       41 USD
-
-2015-12-25
-    Assets
-    Expenses:Food       42 USD
-
-2015-12-1
-    Assets
-    Expenses:Food       30 USD
-
-2015-12-21
-    Assets
-    Expenses:Travel       431 USD
-
-2015-12-3
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-12-26
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-12-4
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-12-25
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-12-6
-    Assets
-    Expenses:Drinks       3 USD
-
-2015-12-5
-    Assets
-    Expenses:Drinks       4 USD
-
-2015-12-13
-    Assets
-    Expenses:Drinks       1 USD
-
-2015-12-22
-    Assets
-    Expenses:Drinks       4 USD
-
-2015-12-9
-    Assets
-    Expenses:Drinks       5 USD
-
-2015-12-3
-    Assets
-    Expenses:Drinks       1 USD
-
-2015-12-3
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-12-1
-    Assets
-    Expenses:Drinks       2 USD
-
-2015-12-14
-    Assets
-    Expenses:Books       72 USD
-
-2015-12-8
-    Assets
-    Assets:Savings       307 USD
-
-2016-1-14
-    Assets
-    Income       -2279 USD
-
-2016-1-15
-    Assets
-    Expenses:Rent       1000 USD
-
-2016-1-25
-    Assets
-    Expenses:Services       5 USD
-
-2016-1-20
-    Assets
-    Expenses:Services       11 USD
-
-2016-1-17
-    Assets
-    Expenses:Services       13 USD
-
-2016-1-26
+2015-11-28
     Assets
     Expenses:Food       35 USD
 
-2016-1-20
-    Assets
-    Expenses:Food       46 USD
-
-2016-1-21
+2015-11-11
     Assets
     Expenses:Food       32 USD
 
+2015-11-27
+    Assets
+    Expenses:Food       19 USD
+
+2015-11-11
+    Assets
+    Expenses:Food       33 USD
+
+2015-11-7
+    Assets
+    Expenses:Food       33 USD
+
+2015-11-22
+    Assets
+    Expenses:Food       49 USD
+
+2015-11-26
+    Assets
+    Expenses:Travel       86 USD
+
+2015-11-24
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-11-18
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-11-23
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-11-4
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-11-4
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-11-27
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-11-9
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-11-17
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-11-24
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-11-25
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-11-9
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-11-18
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-11-13
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-11-14
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-11-24
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-11-19
+    Assets
+    Expenses:Books       83 USD
+
+2015-11-2
+    Assets
+    Expenses:Books       20 USD
+
+2015-11-26
+    Assets
+    Assets:Savings       303 USD
+
+2015-12-14
+    Assets
+    Income       -2115 USD
+
+2015-12-12
+    Assets
+    Expenses:Rent       1000 USD
+
+2015-12-10
+    Assets
+    Expenses:Services       16 USD
+
+2015-12-25
+    Assets
+    Expenses:Services       11 USD
+
+2015-12-10
+    Assets
+    Expenses:Services       5 USD
+
+2015-12-8
+    Assets
+    Expenses:Food       31 USD
+
+2015-12-26
+    Assets
+    Expenses:Food       45 USD
+
+2015-12-15
+    Assets
+    Expenses:Food       34 USD
+
+2015-12-27
+    Assets
+    Expenses:Food       46 USD
+
+2015-12-11
+    Assets
+    Expenses:Food       29 USD
+
+2015-12-28
+    Assets
+    Expenses:Food       22 USD
+
+2015-12-24
+    Assets
+    Expenses:Food       14 USD
+
+2015-12-25
+    Assets
+    Expenses:Food       35 USD
+
+2015-12-21
+    Assets
+    Expenses:Food       51 USD
+
+2015-12-2
+    Assets
+    Expenses:Food       35 USD
+
+2015-12-14
+    Assets
+    Expenses:Food       33 USD
+
+2015-12-24
+    Assets
+    Expenses:Food       45 USD
+
+2015-12-3
+    Assets
+    Expenses:Food       39 USD
+
+2015-12-8
+    Assets
+    Expenses:Food       47 USD
+
+2015-12-20
+    Assets
+    Expenses:Food       36 USD
+
+2015-12-11
+    Assets
+    Expenses:Travel       150 USD
+
+2015-12-17
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-12-8
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-12-8
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-12-20
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-12-20
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-12-6
+    Assets
+    Expenses:Drinks       4 USD
+
+2015-12-27
+    Assets
+    Expenses:Drinks       3 USD
+
+2015-12-23
+    Assets
+    Expenses:Drinks       6 USD
+
+2015-12-9
+    Assets
+    Expenses:Drinks       1 USD
+
+2015-12-27
+    Assets
+    Expenses:Drinks       5 USD
+
+2015-12-25
+    Assets
+    Expenses:Drinks       2 USD
+
+2015-12-19
+    Assets
+    Expenses:Books       52 USD
+
+2015-12-4
+    Assets
+    Expenses:Books       90 USD
+
+2015-12-27
+    Assets
+    Assets:Savings       429 USD
+
 2016-1-12
     Assets
-    Expenses:Food       16 USD
+    Income       -2142 USD
+
+2016-1-10
+    Assets
+    Expenses:Rent       1000 USD
+
+2016-1-23
+    Assets
+    Expenses:Services       21 USD
+
+2016-1-15
+    Assets
+    Expenses:Services       13 USD
+
+2016-1-22
+    Assets
+    Expenses:Services       30 USD
 
 2016-1-6
     Assets
     Expenses:Food       32 USD
 
-2016-1-10
+2016-1-9
     Assets
-    Expenses:Food       41 USD
-
-2016-1-17
-    Assets
-    Expenses:Food       45 USD
-
-2016-1-18
-    Assets
-    Expenses:Food       44 USD
-
-2016-1-12
-    Assets
-    Expenses:Food       28 USD
-
-2016-1-14
-    Assets
-    Expenses:Food       17 USD
+    Expenses:Food       24 USD
 
 2016-1-4
     Assets
-    Expenses:Food       43 USD
+    Expenses:Food       44 USD
 
-2016-1-8
+2016-1-14
     Assets
-    Expenses:Food       42 USD
-
-2016-1-1
-    Assets
-    Expenses:Food       34 USD
+    Expenses:Food       44 USD
 
 2016-1-19
     Assets
     Expenses:Food       15 USD
 
-2016-1-21
+2016-1-19
+    Assets
+    Expenses:Food       32 USD
+
+2016-1-1
+    Assets
+    Expenses:Food       13 USD
+
+2016-1-27
+    Assets
+    Expenses:Food       20 USD
+
+2016-1-5
+    Assets
+    Expenses:Food       36 USD
+
+2016-1-2
+    Assets
+    Expenses:Food       30 USD
+
+2016-1-9
     Assets
     Expenses:Food       48 USD
 
-2016-1-26
+2016-1-6
     Assets
-    Expenses:Travel       486 USD
+    Expenses:Food       24 USD
 
-2016-1-27
+2016-1-1
     Assets
-    Expenses:Drinks       3 USD
-
-2016-1-3
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-1-10
-    Assets
-    Expenses:Drinks       6 USD
+    Expenses:Food       29 USD
 
 2016-1-25
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Food       40 USD
 
-2016-1-22
+2016-1-10
+    Assets
+    Expenses:Food       49 USD
+
+2016-1-24
+    Assets
+    Expenses:Travel       258 USD
+
+2016-1-4
     Assets
     Expenses:Drinks       5 USD
-
-2016-1-27
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-1-21
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-1-26
-    Assets
-    Expenses:Drinks       1 USD
 
 2016-1-23
     Assets
-    Expenses:Drinks       1 USD
+    Expenses:Drinks       3 USD
 
-2016-1-6
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-1-4
+2016-1-12
     Assets
     Expenses:Drinks       2 USD
 
@@ -3662,1631 +3602,1663 @@
     Assets
     Expenses:Drinks       5 USD
 
-2016-1-1
+2016-1-9
     Assets
-    Expenses:Books       30 USD
+    Expenses:Drinks       2 USD
 
-2016-1-21
+2016-1-25
     Assets
-    Expenses:Books       76 USD
+    Expenses:Drinks       1 USD
 
-2016-1-27
+2016-1-15
     Assets
-    Assets:Savings       193 USD
+    Expenses:Drinks       6 USD
 
-2016-2-15
+2016-1-26
     Assets
-    Income       -2106 USD
+    Expenses:Drinks       3 USD
 
-2016-2-14
+2016-1-17
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-1-16
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-1-16
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-1-8
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-1-20
+    Assets
+    Expenses:Books       86 USD
+
+2016-1-18
+    Assets
+    Expenses:Books       34 USD
+
+2016-1-11
+    Assets
+    Assets:Savings       -120 USD
+
+2016-2-11
+    Assets
+    Income       -2020 USD
+
+2016-2-12
     Assets
     Expenses:Rent       1000 USD
 
-2016-2-16
-    Assets
-    Expenses:Services       31 USD
-
-2016-2-12
-    Assets
-    Expenses:Services       18 USD
-
-2016-2-11
-    Assets
-    Expenses:Services       12 USD
-
-2016-2-27
-    Assets
-    Expenses:Food       45 USD
-
 2016-2-13
     Assets
-    Expenses:Food       41 USD
-
-2016-2-21
-    Assets
-    Expenses:Food       31 USD
-
-2016-2-7
-    Assets
-    Expenses:Food       24 USD
-
-2016-2-9
-    Assets
-    Expenses:Food       37 USD
-
-2016-2-11
-    Assets
-    Expenses:Food       28 USD
-
-2016-2-12
-    Assets
-    Expenses:Food       32 USD
-
-2016-2-7
-    Assets
-    Expenses:Food       30 USD
-
-2016-2-21
-    Assets
-    Expenses:Food       20 USD
-
-2016-2-4
-    Assets
-    Expenses:Food       41 USD
-
-2016-2-6
-    Assets
-    Expenses:Food       49 USD
-
-2016-2-6
-    Assets
-    Expenses:Food       38 USD
-
-2016-2-27
-    Assets
-    Expenses:Food       14 USD
-
-2016-2-13
-    Assets
-    Expenses:Food       44 USD
+    Expenses:Services       15 USD
 
 2016-2-17
     Assets
-    Expenses:Food       45 USD
+    Expenses:Services       29 USD
 
-2016-2-16
+2016-2-25
     Assets
-    Expenses:Travel       11 USD
-
-2016-2-9
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-2-27
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-2-19
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-2-4
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-2-13
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-2-17
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-2-20
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-2-24
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-2-6
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-2-11
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-2-15
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-2-4
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-2-16
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-2-27
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-2-5
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-2-13
-    Assets
-    Expenses:Books       22 USD
-
-2016-2-7
-    Assets
-    Expenses:Books       98 USD
+    Expenses:Services       3 USD
 
 2016-2-28
     Assets
-    Assets:Savings       291 USD
+    Expenses:Food       23 USD
 
-2016-3-12
+2016-2-4
     Assets
-    Income       -2128 USD
+    Expenses:Food       41 USD
 
-2016-3-14
+2016-2-4
     Assets
-    Expenses:Rent       1000 USD
+    Expenses:Food       52 USD
 
-2016-3-25
+2016-2-16
     Assets
-    Expenses:Services       27 USD
+    Expenses:Food       17 USD
 
-2016-3-25
+2016-2-17
     Assets
-    Expenses:Services       8 USD
+    Expenses:Food       42 USD
 
-2016-3-12
+2016-2-15
     Assets
-    Expenses:Services       14 USD
+    Expenses:Food       48 USD
 
-2016-3-28
+2016-2-27
     Assets
-    Expenses:Food       50 USD
+    Expenses:Food       18 USD
 
-2016-3-14
+2016-2-23
+    Assets
+    Expenses:Food       53 USD
+
+2016-2-13
     Assets
     Expenses:Food       44 USD
 
+2016-2-12
+    Assets
+    Expenses:Food       33 USD
+
+2016-2-17
+    Assets
+    Expenses:Food       21 USD
+
+2016-2-20
+    Assets
+    Expenses:Food       15 USD
+
+2016-2-17
+    Assets
+    Expenses:Food       23 USD
+
+2016-2-21
+    Assets
+    Expenses:Food       37 USD
+
+2016-2-17
+    Assets
+    Expenses:Food       32 USD
+
+2016-2-11
+    Assets
+    Expenses:Travel       366 USD
+
+2016-2-5
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-2-16
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-2-2
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-2-4
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-2-28
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-2-1
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-2-25
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-2-13
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-2-15
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-2-17
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-2-3
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-2-2
+    Assets
+    Expenses:Books       67 USD
+
+2016-2-8
+    Assets
+    Expenses:Books       60 USD
+
+2016-2-21
+    Assets
+    Assets:Savings       178 USD
+
+2016-3-10
+    Assets
+    Income       -2017 USD
+
+2016-3-12
+    Assets
+    Expenses:Rent       1000 USD
+
 2016-3-22
+    Assets
+    Expenses:Services       3 USD
+
+2016-3-12
+    Assets
+    Expenses:Services       3 USD
+
+2016-3-16
+    Assets
+    Expenses:Services       22 USD
+
+2016-3-12
+    Assets
+    Expenses:Food       13 USD
+
+2016-3-26
+    Assets
+    Expenses:Food       19 USD
+
+2016-3-1
+    Assets
+    Expenses:Food       29 USD
+
+2016-3-21
+    Assets
+    Expenses:Food       45 USD
+
+2016-3-11
+    Assets
+    Expenses:Food       43 USD
+
+2016-3-14
+    Assets
+    Expenses:Food       43 USD
+
+2016-3-16
     Assets
     Expenses:Food       25 USD
 
 2016-3-2
     Assets
-    Expenses:Food       35 USD
+    Expenses:Food       36 USD
 
-2016-3-13
+2016-3-24
     Assets
-    Expenses:Food       33 USD
+    Expenses:Food       48 USD
 
-2016-3-4
-    Assets
-    Expenses:Food       23 USD
-
-2016-3-8
-    Assets
-    Expenses:Food       13 USD
-
-2016-3-15
-    Assets
-    Expenses:Food       49 USD
-
-2016-3-9
+2016-3-23
     Assets
     Expenses:Food       39 USD
 
-2016-3-6
+2016-3-19
     Assets
-    Expenses:Food       37 USD
+    Expenses:Food       53 USD
 
-2016-3-2
+2016-3-25
     Assets
-    Expenses:Food       50 USD
+    Expenses:Food       38 USD
 
-2016-3-7
+2016-3-23
     Assets
-    Expenses:Food       23 USD
+    Expenses:Food       39 USD
 
-2016-3-3
+2016-3-16
     Assets
-    Expenses:Food       14 USD
+    Expenses:Food       18 USD
 
-2016-3-2
+2016-3-13
     Assets
-    Expenses:Food       45 USD
+    Expenses:Food       20 USD
 
 2016-3-27
     Assets
-    Expenses:Food       24 USD
+    Expenses:Travel       87 USD
 
-2016-3-3
+2016-3-1
     Assets
-    Expenses:Travel       100 USD
+    Expenses:Drinks       4 USD
 
-2016-3-14
+2016-3-5
     Assets
     Expenses:Drinks       6 USD
 
-2016-3-14
+2016-3-20
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-3-4
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-3-13
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-3-13
     Assets
     Expenses:Drinks       1 USD
 
-2016-3-19
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-3-27
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-3-28
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-3-27
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-3-2
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-3-15
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-3-27
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-3-10
+2016-3-4
     Assets
     Expenses:Drinks       5 USD
 
 2016-3-18
     Assets
-    Expenses:Drinks       1 USD
+    Expenses:Drinks       6 USD
 
-2016-3-6
+2016-3-8
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-3-3
     Assets
     Expenses:Drinks       4 USD
 
-2016-3-9
+2016-3-13
     Assets
-    Expenses:Drinks       1 USD
+    Expenses:Drinks       5 USD
 
-2016-3-20
+2016-3-28
     Assets
-    Expenses:Books       73 USD
+    Expenses:Drinks       4 USD
+
+2016-3-18
+    Assets
+    Expenses:Drinks       3 USD
 
 2016-3-1
     Assets
-    Expenses:Books       5 USD
+    Expenses:Books       40 USD
 
-2016-3-15
+2016-3-2
     Assets
-    Assets:Savings       137 USD
+    Expenses:Books       83 USD
 
-2016-4-14
+2016-3-10
     Assets
-    Income       -2503 USD
+    Assets:Savings       439 USD
 
-2016-4-10
+2016-4-11
+    Assets
+    Income       -2030 USD
+
+2016-4-11
     Assets
     Expenses:Rent       1000 USD
 
-2016-4-17
-    Assets
-    Expenses:Services       28 USD
-
 2016-4-13
     Assets
-    Expenses:Services       28 USD
+    Expenses:Services       7 USD
 
-2016-4-19
+2016-4-16
     Assets
-    Expenses:Services       17 USD
-
-2016-4-3
-    Assets
-    Expenses:Food       51 USD
-
-2016-4-13
-    Assets
-    Expenses:Food       41 USD
-
-2016-4-3
-    Assets
-    Expenses:Food       51 USD
-
-2016-4-7
-    Assets
-    Expenses:Food       20 USD
-
-2016-4-6
-    Assets
-    Expenses:Food       42 USD
+    Expenses:Services       31 USD
 
 2016-4-14
     Assets
-    Expenses:Food       52 USD
+    Expenses:Services       16 USD
+
+2016-4-20
+    Assets
+    Expenses:Food       50 USD
+
+2016-4-5
+    Assets
+    Expenses:Food       42 USD
+
+2016-4-7
+    Assets
+    Expenses:Food       48 USD
+
+2016-4-4
+    Assets
+    Expenses:Food       35 USD
+
+2016-4-10
+    Assets
+    Expenses:Food       31 USD
+
+2016-4-6
+    Assets
+    Expenses:Food       19 USD
+
+2016-4-4
+    Assets
+    Expenses:Food       51 USD
+
+2016-4-19
+    Assets
+    Expenses:Food       47 USD
+
+2016-4-27
+    Assets
+    Expenses:Food       37 USD
+
+2016-4-7
+    Assets
+    Expenses:Food       13 USD
+
+2016-4-17
+    Assets
+    Expenses:Food       20 USD
 
 2016-4-5
     Assets
     Expenses:Food       48 USD
 
-2016-4-17
+2016-4-26
     Assets
     Expenses:Food       19 USD
 
-2016-4-28
-    Assets
-    Expenses:Food       34 USD
-
 2016-4-18
     Assets
-    Expenses:Food       14 USD
-
-2016-4-5
-    Assets
-    Expenses:Food       46 USD
-
-2016-4-4
-    Assets
-    Expenses:Food       32 USD
-
-2016-4-26
-    Assets
-    Expenses:Food       28 USD
-
-2016-4-10
-    Assets
-    Expenses:Food       46 USD
-
-2016-4-12
-    Assets
-    Expenses:Food       21 USD
-
-2016-4-2
-    Assets
-    Expenses:Travel       153 USD
-
-2016-4-23
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-4-12
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-4-1
-    Assets
-    Expenses:Drinks       6 USD
+    Expenses:Food       49 USD
 
 2016-4-9
     Assets
-    Expenses:Drinks       1 USD
-
-2016-4-4
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-4-15
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-4-4
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-4-4
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-4-20
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-4-20
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-4-14
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-4-5
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-4-10
-    Assets
-    Expenses:Books       16 USD
+    Expenses:Food       18 USD
 
 2016-4-28
     Assets
-    Expenses:Books       96 USD
+    Expenses:Travel       380 USD
 
-2016-4-18
+2016-4-23
     Assets
-    Assets:Savings       328 USD
+    Expenses:Drinks       3 USD
 
-2016-5-13
+2016-4-6
     Assets
-    Income       -2105 USD
+    Expenses:Drinks       5 USD
 
-2016-5-13
+2016-4-20
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-4-2
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-4-1
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-4-20
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-4-27
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-4-28
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-4-27
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-4-4
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-4-17
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-4-10
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-4-10
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-4-7
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-4-11
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-4-28
+    Assets
+    Expenses:Books       89 USD
+
+2016-4-11
+    Assets
+    Expenses:Books       33 USD
+
+2016-4-7
+    Assets
+    Assets:Savings       165 USD
+
+2016-5-10
+    Assets
+    Income       -2014 USD
+
+2016-5-12
     Assets
     Expenses:Rent       1000 USD
 
 2016-5-13
     Assets
-    Expenses:Services       11 USD
+    Expenses:Services       6 USD
 
-2016-5-21
+2016-5-20
     Assets
-    Expenses:Services       26 USD
+    Expenses:Services       23 USD
 
-2016-5-10
+2016-5-18
     Assets
-    Expenses:Services       29 USD
+    Expenses:Services       10 USD
 
-2016-5-5
+2016-5-9
     Assets
-    Expenses:Food       44 USD
+    Expenses:Food       53 USD
 
-2016-5-13
-    Assets
-    Expenses:Food       47 USD
-
-2016-5-1
+2016-5-14
     Assets
     Expenses:Food       30 USD
 
-2016-5-17
+2016-5-9
     Assets
-    Expenses:Food       50 USD
-
-2016-5-26
-    Assets
-    Expenses:Food       20 USD
-
-2016-5-13
-    Assets
-    Expenses:Food       21 USD
-
-2016-5-26
-    Assets
-    Expenses:Food       22 USD
-
-2016-5-15
-    Assets
-    Expenses:Food       17 USD
-
-2016-5-13
-    Assets
-    Expenses:Food       13 USD
-
-2016-5-22
-    Assets
-    Expenses:Food       14 USD
-
-2016-5-6
-    Assets
-    Expenses:Food       16 USD
-
-2016-5-24
-    Assets
-    Expenses:Food       20 USD
-
-2016-5-25
-    Assets
-    Expenses:Food       37 USD
-
-2016-5-1
-    Assets
-    Expenses:Food       46 USD
-
-2016-5-13
-    Assets
-    Expenses:Food       49 USD
-
-2016-5-18
-    Assets
-    Expenses:Travel       9 USD
-
-2016-5-15
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-5-25
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-5-6
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-5-17
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-5-14
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-5-18
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-5-14
-    Assets
-    Expenses:Drinks       3 USD
+    Expenses:Food       29 USD
 
 2016-5-3
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Food       26 USD
 
-2016-5-23
+2016-5-27
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Food       22 USD
+
+2016-5-5
+    Assets
+    Expenses:Food       38 USD
+
+2016-5-12
+    Assets
+    Expenses:Food       41 USD
+
+2016-5-8
+    Assets
+    Expenses:Food       31 USD
+
+2016-5-25
+    Assets
+    Expenses:Food       14 USD
+
+2016-5-7
+    Assets
+    Expenses:Food       37 USD
+
+2016-5-11
+    Assets
+    Expenses:Food       37 USD
+
+2016-5-7
+    Assets
+    Expenses:Food       18 USD
+
+2016-5-10
+    Assets
+    Expenses:Food       40 USD
+
+2016-5-4
+    Assets
+    Expenses:Food       13 USD
+
+2016-5-5
+    Assets
+    Expenses:Food       50 USD
+
+2016-5-1
+    Assets
+    Expenses:Travel       233 USD
+
+2016-5-27
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-5-19
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-5-7
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-5-16
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-5-25
+    Assets
+    Expenses:Drinks       1 USD
 
 2016-5-16
     Assets
     Expenses:Drinks       4 USD
 
-2016-5-12
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-5-15
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-5-25
-    Assets
-    Expenses:Books       79 USD
-
-2016-5-15
-    Assets
-    Expenses:Books       50 USD
-
-2016-5-15
-    Assets
-    Assets:Savings       335 USD
-
-2016-6-14
-    Assets
-    Income       -2209 USD
-
-2016-6-10
-    Assets
-    Expenses:Rent       1000 USD
-
-2016-6-17
-    Assets
-    Expenses:Services       8 USD
-
-2016-6-24
-    Assets
-    Expenses:Services       17 USD
-
-2016-6-14
-    Assets
-    Expenses:Services       8 USD
-
-2016-6-7
-    Assets
-    Expenses:Food       53 USD
-
-2016-6-24
-    Assets
-    Expenses:Food       50 USD
-
-2016-6-25
-    Assets
-    Expenses:Food       31 USD
-
-2016-6-7
-    Assets
-    Expenses:Food       48 USD
-
-2016-6-12
-    Assets
-    Expenses:Food       32 USD
-
-2016-6-9
-    Assets
-    Expenses:Food       53 USD
-
-2016-6-24
-    Assets
-    Expenses:Food       15 USD
-
-2016-6-25
-    Assets
-    Expenses:Food       43 USD
-
-2016-6-13
-    Assets
-    Expenses:Food       27 USD
-
-2016-6-22
-    Assets
-    Expenses:Food       40 USD
-
-2016-6-23
-    Assets
-    Expenses:Food       31 USD
-
-2016-6-26
-    Assets
-    Expenses:Food       31 USD
-
-2016-6-7
-    Assets
-    Expenses:Food       13 USD
-
-2016-6-12
-    Assets
-    Expenses:Food       23 USD
-
-2016-6-1
-    Assets
-    Expenses:Food       31 USD
-
-2016-6-1
-    Assets
-    Expenses:Travel       98 USD
-
-2016-6-26
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-6-14
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-6-25
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-6-16
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-6-12
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-6-4
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-6-7
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-6-11
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-6-26
+2016-5-18
     Assets
     Expenses:Drinks       6 USD
 
-2016-6-17
+2016-5-10
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-5-17
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-5-26
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-5-20
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-5-8
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-5-11
+    Assets
+    Expenses:Books       62 USD
+
+2016-5-10
+    Assets
+    Expenses:Books       68 USD
+
+2016-5-21
+    Assets
+    Assets:Savings       7 USD
+
+2016-6-13
+    Assets
+    Income       -2102 USD
+
+2016-6-14
+    Assets
+    Expenses:Rent       1000 USD
+
+2016-6-22
+    Assets
+    Expenses:Services       23 USD
+
+2016-6-24
+    Assets
+    Expenses:Services       24 USD
+
+2016-6-25
+    Assets
+    Expenses:Services       29 USD
+
+2016-6-23
+    Assets
+    Expenses:Food       33 USD
+
+2016-6-27
+    Assets
+    Expenses:Food       16 USD
+
+2016-6-3
+    Assets
+    Expenses:Food       30 USD
+
+2016-6-21
+    Assets
+    Expenses:Food       47 USD
+
+2016-6-9
+    Assets
+    Expenses:Food       17 USD
+
+2016-6-15
+    Assets
+    Expenses:Food       47 USD
+
+2016-6-15
+    Assets
+    Expenses:Food       45 USD
+
+2016-6-12
+    Assets
+    Expenses:Food       45 USD
+
+2016-6-14
+    Assets
+    Expenses:Food       45 USD
+
+2016-6-16
+    Assets
+    Expenses:Food       26 USD
+
+2016-6-23
+    Assets
+    Expenses:Food       34 USD
+
+2016-6-20
+    Assets
+    Expenses:Food       48 USD
+
+2016-6-25
+    Assets
+    Expenses:Food       20 USD
+
+2016-6-3
+    Assets
+    Expenses:Food       37 USD
+
+2016-6-28
+    Assets
+    Expenses:Food       19 USD
+
+2016-6-22
+    Assets
+    Expenses:Travel       144 USD
+
+2016-6-21
     Assets
     Expenses:Drinks       2 USD
 
-2016-6-8
+2016-6-19
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-6-27
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-6-12
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-6-16
     Assets
     Expenses:Drinks       4 USD
 
 2016-6-15
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Drinks       2 USD
 
-2016-6-24
+2016-6-17
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-6-17
     Assets
     Expenses:Drinks       1 USD
 
-2016-6-28
+2016-6-4
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Drinks       3 USD
 
-2016-6-23
+2016-6-21
     Assets
-    Expenses:Books       89 USD
+    Expenses:Drinks       1 USD
+
+2016-6-3
+    Assets
+    Expenses:Drinks       1 USD
 
 2016-6-5
     Assets
-    Expenses:Books       82 USD
+    Expenses:Books       16 USD
 
-2016-6-10
+2016-6-20
     Assets
-    Assets:Savings       102 USD
+    Expenses:Books       51 USD
 
-2016-7-10
+2016-6-5
     Assets
-    Income       -2207 USD
+    Assets:Savings       -100 USD
+
+2016-7-12
+    Assets
+    Income       -2009 USD
 
 2016-7-14
     Assets
     Expenses:Rent       1000 USD
 
-2016-7-15
+2016-7-23
     Assets
-    Expenses:Services       30 USD
+    Expenses:Services       12 USD
 
-2016-7-20
+2016-7-17
     Assets
     Expenses:Services       18 USD
 
-2016-7-15
+2016-7-23
     Assets
-    Expenses:Services       32 USD
+    Expenses:Services       27 USD
 
-2016-7-16
+2016-7-27
     Assets
-    Expenses:Food       53 USD
+    Expenses:Food       16 USD
 
-2016-7-1
+2016-7-12
     Assets
-    Expenses:Food       13 USD
+    Expenses:Food       23 USD
 
-2016-7-10
-    Assets
-    Expenses:Food       43 USD
-
-2016-7-21
+2016-7-3
     Assets
     Expenses:Food       51 USD
 
-2016-7-22
-    Assets
-    Expenses:Food       23 USD
-
-2016-7-21
-    Assets
-    Expenses:Food       30 USD
-
-2016-7-1
-    Assets
-    Expenses:Food       40 USD
-
-2016-7-2
-    Assets
-    Expenses:Food       38 USD
-
-2016-7-21
-    Assets
-    Expenses:Food       25 USD
-
-2016-7-14
-    Assets
-    Expenses:Food       44 USD
-
-2016-7-19
-    Assets
-    Expenses:Food       28 USD
-
-2016-7-2
-    Assets
-    Expenses:Food       23 USD
-
-2016-7-1
-    Assets
-    Expenses:Food       15 USD
-
 2016-7-27
     Assets
-    Expenses:Food       37 USD
-
-2016-7-8
-    Assets
-    Expenses:Food       23 USD
+    Expenses:Food       21 USD
 
 2016-7-20
     Assets
-    Expenses:Travel       295 USD
+    Expenses:Food       25 USD
+
+2016-7-6
+    Assets
+    Expenses:Food       36 USD
 
 2016-7-27
     Assets
-    Expenses:Drinks       1 USD
+    Expenses:Food       39 USD
 
-2016-7-3
+2016-7-19
     Assets
-    Expenses:Drinks       6 USD
-
-2016-7-23
-    Assets
-    Expenses:Drinks       2 USD
+    Expenses:Food       17 USD
 
 2016-7-18
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Food       20 USD
 
-2016-7-13
+2016-7-16
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Food       25 USD
+
+2016-7-20
+    Assets
+    Expenses:Food       13 USD
+
+2016-7-4
+    Assets
+    Expenses:Food       18 USD
+
+2016-7-12
+    Assets
+    Expenses:Food       50 USD
 
 2016-7-14
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Food       31 USD
 
-2016-7-3
+2016-7-9
+    Assets
+    Expenses:Food       51 USD
+
+2016-7-9
+    Assets
+    Expenses:Travel       213 USD
+
+2016-7-8
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-7-28
     Assets
     Expenses:Drinks       2 USD
+
+2016-7-9
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-7-22
+    Assets
+    Expenses:Drinks       4 USD
 
 2016-7-26
     Assets
     Expenses:Drinks       6 USD
 
-2016-7-27
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-7-13
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-7-22
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-7-27
-    Assets
-    Expenses:Drinks       5 USD
-
 2016-7-4
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-7-25
     Assets
     Expenses:Drinks       3 USD
 
+2016-7-15
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-7-9
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-7-1
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-7-28
+    Assets
+    Expenses:Drinks       4 USD
+
 2016-7-3
     Assets
-    Expenses:Books       37 USD
+    Expenses:Drinks       3 USD
 
-2016-7-13
+2016-7-22
     Assets
-    Expenses:Books       96 USD
+    Expenses:Drinks       3 USD
 
-2016-7-3
+2016-7-24
     Assets
-    Assets:Savings       368 USD
+    Expenses:Drinks       1 USD
 
-2016-8-11
+2016-7-16
     Assets
-    Income       -2524 USD
+    Expenses:Books       64 USD
 
-2016-8-15
+2016-7-4
+    Assets
+    Expenses:Books       48 USD
+
+2016-7-2
+    Assets
+    Assets:Savings       413 USD
+
+2016-8-14
+    Assets
+    Income       -2017 USD
+
+2016-8-10
     Assets
     Expenses:Rent       1000 USD
 
-2016-8-14
+2016-8-16
     Assets
-    Expenses:Services       19 USD
-
-2016-8-23
-    Assets
-    Expenses:Services       24 USD
-
-2016-8-14
-    Assets
-    Expenses:Services       8 USD
-
-2016-8-15
-    Assets
-    Expenses:Food       21 USD
-
-2016-8-4
-    Assets
-    Expenses:Food       34 USD
-
-2016-8-23
-    Assets
-    Expenses:Food       28 USD
-
-2016-8-17
-    Assets
-    Expenses:Food       53 USD
-
-2016-8-20
-    Assets
-    Expenses:Food       32 USD
-
-2016-8-28
-    Assets
-    Expenses:Food       41 USD
-
-2016-8-17
-    Assets
-    Expenses:Food       47 USD
-
-2016-8-21
-    Assets
-    Expenses:Food       32 USD
-
-2016-8-21
-    Assets
-    Expenses:Food       42 USD
-
-2016-8-9
-    Assets
-    Expenses:Food       16 USD
-
-2016-8-27
-    Assets
-    Expenses:Food       33 USD
-
-2016-8-26
-    Assets
-    Expenses:Food       16 USD
-
-2016-8-6
-    Assets
-    Expenses:Food       29 USD
+    Expenses:Services       32 USD
 
 2016-8-16
     Assets
-    Expenses:Food       22 USD
-
-2016-8-25
-    Assets
-    Expenses:Food       33 USD
+    Expenses:Services       5 USD
 
 2016-8-15
     Assets
-    Expenses:Travel       259 USD
+    Expenses:Services       22 USD
 
-2016-8-25
+2016-8-26
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       46 USD
+
+2016-8-28
+    Assets
+    Expenses:Food       23 USD
+
+2016-8-9
+    Assets
+    Expenses:Food       32 USD
+
+2016-8-14
+    Assets
+    Expenses:Food       41 USD
+
+2016-8-3
+    Assets
+    Expenses:Food       27 USD
+
+2016-8-22
+    Assets
+    Expenses:Food       35 USD
+
+2016-8-23
+    Assets
+    Expenses:Food       51 USD
+
+2016-8-27
+    Assets
+    Expenses:Food       30 USD
+
+2016-8-1
+    Assets
+    Expenses:Food       23 USD
+
+2016-8-15
+    Assets
+    Expenses:Food       42 USD
+
+2016-8-6
+    Assets
+    Expenses:Food       34 USD
+
+2016-8-19
+    Assets
+    Expenses:Food       14 USD
+
+2016-8-18
+    Assets
+    Expenses:Food       53 USD
+
+2016-8-15
+    Assets
+    Expenses:Food       34 USD
+
+2016-8-8
+    Assets
+    Expenses:Food       28 USD
+
+2016-8-27
+    Assets
+    Expenses:Travel       392 USD
+
+2016-8-20
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-8-18
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-8-26
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-8-14
+    Assets
+    Expenses:Drinks       3 USD
 
 2016-8-7
     Assets
     Expenses:Drinks       4 USD
 
-2016-8-12
+2016-8-10
     Assets
     Expenses:Drinks       3 USD
 
-2016-8-23
+2016-8-16
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Drinks       3 USD
 
-2016-8-24
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-8-18
+2016-8-10
     Assets
     Expenses:Drinks       5 USD
 
 2016-8-19
     Assets
-    Expenses:Drinks       4 USD
-
-2016-8-15
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-8-24
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-8-13
-    Assets
     Expenses:Drinks       2 USD
 
-2016-8-6
+2016-8-20
     Assets
     Expenses:Drinks       4 USD
 
-2016-8-28
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-8-13
+2016-8-1
     Assets
     Expenses:Drinks       5 USD
 
-2016-8-3
+2016-8-26
     Assets
-    Expenses:Books       84 USD
+    Expenses:Books       48 USD
 
-2016-8-23
+2016-8-17
     Assets
-    Expenses:Books       97 USD
+    Expenses:Books       57 USD
 
 2016-8-25
     Assets
-    Assets:Savings       473 USD
-
-2016-9-15
-    Assets
-    Income       -2346 USD
-
-2016-9-12
-    Assets
-    Expenses:Rent       1000 USD
+    Assets:Savings       134 USD
 
 2016-9-10
     Assets
-    Expenses:Services       32 USD
+    Income       -2107 USD
+
+2016-9-15
+    Assets
+    Expenses:Rent       1000 USD
 
 2016-9-18
     Assets
     Expenses:Services       17 USD
 
-2016-9-10
-    Assets
-    Expenses:Services       4 USD
-
-2016-9-23
-    Assets
-    Expenses:Food       39 USD
-
-2016-9-20
-    Assets
-    Expenses:Food       41 USD
-
-2016-9-27
-    Assets
-    Expenses:Food       36 USD
-
-2016-9-21
-    Assets
-    Expenses:Food       36 USD
-
-2016-9-24
-    Assets
-    Expenses:Food       19 USD
-
-2016-9-5
-    Assets
-    Expenses:Food       38 USD
-
-2016-9-3
-    Assets
-    Expenses:Food       47 USD
-
-2016-9-13
-    Assets
-    Expenses:Food       35 USD
-
 2016-9-15
     Assets
-    Expenses:Food       48 USD
-
-2016-9-14
-    Assets
-    Expenses:Food       51 USD
-
-2016-9-14
-    Assets
-    Expenses:Food       48 USD
-
-2016-9-4
-    Assets
-    Expenses:Food       43 USD
-
-2016-9-3
-    Assets
-    Expenses:Food       28 USD
-
-2016-9-17
-    Assets
-    Expenses:Food       39 USD
-
-2016-9-12
-    Assets
-    Expenses:Food       13 USD
-
-2016-9-23
-    Assets
-    Expenses:Travel       173 USD
-
-2016-9-27
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-9-17
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-9-10
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-9-23
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-9-14
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-9-27
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-9-4
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-9-17
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-9-9
-    Assets
-    Expenses:Drinks       3 USD
+    Expenses:Services       8 USD
 
 2016-9-20
     Assets
-    Expenses:Drinks       6 USD
+    Expenses:Services       25 USD
 
 2016-9-24
-    Assets
-    Expenses:Books       84 USD
-
-2016-9-8
-    Assets
-    Expenses:Books       44 USD
-
-2016-9-9
-    Assets
-    Assets:Savings       205 USD
-
-2016-10-14
-    Assets
-    Income       -2531 USD
-
-2016-10-12
-    Assets
-    Expenses:Rent       1000 USD
-
-2016-10-25
-    Assets
-    Expenses:Services       33 USD
-
-2016-10-19
-    Assets
-    Expenses:Services       23 USD
-
-2016-10-25
-    Assets
-    Expenses:Services       31 USD
-
-2016-10-21
-    Assets
-    Expenses:Food       19 USD
-
-2016-10-3
-    Assets
-    Expenses:Food       44 USD
-
-2016-10-24
-    Assets
-    Expenses:Food       22 USD
-
-2016-10-26
-    Assets
-    Expenses:Food       41 USD
-
-2016-10-4
-    Assets
-    Expenses:Food       53 USD
-
-2016-10-17
-    Assets
-    Expenses:Food       30 USD
-
-2016-10-17
     Assets
     Expenses:Food       29 USD
 
-2016-10-22
-    Assets
-    Expenses:Food       16 USD
-
-2016-10-16
-    Assets
-    Expenses:Food       36 USD
-
-2016-10-13
+2016-9-27
     Assets
     Expenses:Food       52 USD
 
-2016-10-15
+2016-9-9
     Assets
-    Expenses:Food       25 USD
+    Expenses:Food       50 USD
 
-2016-10-1
+2016-9-19
     Assets
-    Expenses:Food       35 USD
+    Expenses:Food       51 USD
 
-2016-10-5
+2016-9-9
+    Assets
+    Expenses:Food       19 USD
+
+2016-9-7
     Assets
     Expenses:Food       27 USD
+
+2016-9-16
+    Assets
+    Expenses:Food       51 USD
+
+2016-9-1
+    Assets
+    Expenses:Food       49 USD
+
+2016-9-14
+    Assets
+    Expenses:Food       43 USD
+
+2016-9-1
+    Assets
+    Expenses:Food       20 USD
+
+2016-9-22
+    Assets
+    Expenses:Food       33 USD
+
+2016-9-22
+    Assets
+    Expenses:Food       40 USD
+
+2016-9-20
+    Assets
+    Expenses:Food       17 USD
+
+2016-9-13
+    Assets
+    Expenses:Food       14 USD
+
+2016-9-20
+    Assets
+    Expenses:Food       41 USD
+
+2016-9-23
+    Assets
+    Expenses:Travel       493 USD
+
+2016-9-12
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-9-12
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-9-16
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-9-15
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-9-11
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-9-3
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-9-25
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-9-12
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-9-18
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-9-16
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-9-5
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-9-27
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-9-21
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-9-27
+    Assets
+    Expenses:Books       80 USD
+
+2016-9-18
+    Assets
+    Expenses:Books       57 USD
+
+2016-9-2
+    Assets
+    Assets:Savings       384 USD
 
 2016-10-13
     Assets
-    Expenses:Food       28 USD
+    Income       -2028 USD
 
-2016-10-24
+2016-10-11
     Assets
-    Expenses:Food       27 USD
+    Expenses:Rent       1000 USD
 
-2016-10-8
+2016-10-20
     Assets
-    Expenses:Travel       498 USD
+    Expenses:Services       31 USD
+
+2016-10-11
+    Assets
+    Expenses:Services       20 USD
+
+2016-10-21
+    Assets
+    Expenses:Services       27 USD
 
 2016-10-12
     Assets
-    Expenses:Drinks       3 USD
+    Expenses:Food       50 USD
 
-2016-10-26
+2016-10-3
+    Assets
+    Expenses:Food       17 USD
+
+2016-10-9
+    Assets
+    Expenses:Food       42 USD
+
+2016-10-5
+    Assets
+    Expenses:Food       49 USD
+
+2016-10-17
+    Assets
+    Expenses:Food       43 USD
+
+2016-10-20
+    Assets
+    Expenses:Food       24 USD
+
+2016-10-20
+    Assets
+    Expenses:Food       47 USD
+
+2016-10-8
+    Assets
+    Expenses:Food       53 USD
+
+2016-10-9
+    Assets
+    Expenses:Food       53 USD
+
+2016-10-7
+    Assets
+    Expenses:Food       23 USD
+
+2016-10-3
+    Assets
+    Expenses:Food       23 USD
+
+2016-10-21
+    Assets
+    Expenses:Food       14 USD
+
+2016-10-3
+    Assets
+    Expenses:Food       21 USD
+
+2016-10-1
+    Assets
+    Expenses:Food       48 USD
+
+2016-10-12
+    Assets
+    Expenses:Food       45 USD
+
+2016-10-11
+    Assets
+    Expenses:Travel       482 USD
+
+2016-10-20
     Assets
     Expenses:Drinks       3 USD
 
-2016-10-13
+2016-10-27
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-10-19
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-10-28
     Assets
     Expenses:Drinks       2 USD
+
+2016-10-17
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-10-24
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-10-3
+    Assets
+    Expenses:Drinks       1 USD
 
 2016-10-19
     Assets
     Expenses:Drinks       1 USD
 
-2016-10-22
+2016-10-17
     Assets
-    Expenses:Drinks       3 USD
-
-2016-10-6
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-10-13
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-10-22
-    Assets
-    Expenses:Drinks       1 USD
+    Expenses:Drinks       5 USD
 
 2016-10-10
     Assets
-    Expenses:Drinks       1 USD
+    Expenses:Drinks       6 USD
 
-2016-10-28
+2016-10-22
     Assets
-    Expenses:Drinks       1 USD
+    Expenses:Drinks       5 USD
 
-2016-10-4
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-10-20
+2016-10-3
     Assets
     Expenses:Drinks       6 USD
 
-2016-10-5
-    Assets
-    Expenses:Books       63 USD
-
-2016-10-7
-    Assets
-    Expenses:Books       37 USD
-
-2016-10-12
-    Assets
-    Assets:Savings       414 USD
-
-2016-11-10
-    Assets
-    Income       -2712 USD
-
-2016-11-10
-    Assets
-    Expenses:Rent       1000 USD
-
-2016-11-23
-    Assets
-    Expenses:Services       7 USD
-
-2016-11-13
-    Assets
-    Expenses:Services       27 USD
-
-2016-11-11
-    Assets
-    Expenses:Services       33 USD
-
-2016-11-17
-    Assets
-    Expenses:Food       32 USD
-
-2016-11-17
-    Assets
-    Expenses:Food       27 USD
-
-2016-11-28
-    Assets
-    Expenses:Food       45 USD
-
-2016-11-9
-    Assets
-    Expenses:Food       41 USD
-
-2016-11-19
-    Assets
-    Expenses:Food       27 USD
-
-2016-11-14
-    Assets
-    Expenses:Food       41 USD
-
-2016-11-20
-    Assets
-    Expenses:Food       33 USD
-
-2016-11-3
-    Assets
-    Expenses:Food       51 USD
-
-2016-11-27
-    Assets
-    Expenses:Food       22 USD
-
-2016-11-12
-    Assets
-    Expenses:Food       21 USD
-
-2016-11-12
-    Assets
-    Expenses:Food       37 USD
-
-2016-11-20
-    Assets
-    Expenses:Food       36 USD
-
-2016-11-9
-    Assets
-    Expenses:Food       26 USD
-
-2016-11-5
-    Assets
-    Expenses:Food       22 USD
-
-2016-11-21
-    Assets
-    Expenses:Food       21 USD
-
-2016-11-18
-    Assets
-    Expenses:Travel       165 USD
-
-2016-11-22
+2016-10-18
     Assets
     Expenses:Drinks       2 USD
 
-2016-11-24
+2016-10-27
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-10-1
+    Assets
+    Expenses:Books       39 USD
+
+2016-10-7
+    Assets
+    Expenses:Books       53 USD
+
+2016-10-12
+    Assets
+    Assets:Savings       183 USD
+
+2016-11-14
+    Assets
+    Income       -2035 USD
+
+2016-11-12
+    Assets
+    Expenses:Rent       1000 USD
+
+2016-11-18
+    Assets
+    Expenses:Services       33 USD
+
+2016-11-14
+    Assets
+    Expenses:Services       16 USD
+
+2016-11-15
+    Assets
+    Expenses:Services       23 USD
+
+2016-11-25
+    Assets
+    Expenses:Food       36 USD
+
+2016-11-26
+    Assets
+    Expenses:Food       48 USD
+
+2016-11-25
+    Assets
+    Expenses:Food       26 USD
+
+2016-11-9
+    Assets
+    Expenses:Food       42 USD
+
+2016-11-5
+    Assets
+    Expenses:Food       26 USD
+
+2016-11-3
+    Assets
+    Expenses:Food       22 USD
+
+2016-11-17
+    Assets
+    Expenses:Food       30 USD
+
+2016-11-22
+    Assets
+    Expenses:Food       50 USD
+
+2016-11-26
+    Assets
+    Expenses:Food       21 USD
+
+2016-11-17
+    Assets
+    Expenses:Food       25 USD
+
+2016-11-23
+    Assets
+    Expenses:Food       29 USD
+
+2016-11-1
+    Assets
+    Expenses:Food       29 USD
+
+2016-11-2
+    Assets
+    Expenses:Food       20 USD
+
+2016-11-7
+    Assets
+    Expenses:Food       29 USD
+
+2016-11-28
+    Assets
+    Expenses:Food       35 USD
+
+2016-11-16
+    Assets
+    Expenses:Travel       88 USD
+
+2016-11-28
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-11-10
     Assets
     Expenses:Drinks       5 USD
 
-2016-11-8
+2016-11-13
     Assets
     Expenses:Drinks       5 USD
+
+2016-11-9
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-11-12
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-11-14
+    Assets
+    Expenses:Drinks       2 USD
 
 2016-11-26
     Assets
     Expenses:Drinks       2 USD
 
-2016-11-20
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-11-22
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-11-20
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-11-1
-    Assets
-    Expenses:Drinks       6 USD
-
-2016-11-19
-    Assets
-    Expenses:Drinks       1 USD
-
-2016-11-4
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-11-5
+2016-11-27
     Assets
     Expenses:Drinks       2 USD
-
-2016-11-13
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-11-10
-    Assets
-    Expenses:Drinks       2 USD
-
-2016-11-24
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-11-1
-    Assets
-    Expenses:Books       74 USD
 
 2016-11-3
     Assets
-    Expenses:Books       16 USD
+    Expenses:Drinks       1 USD
 
-2016-11-24
+2016-11-3
     Assets
-    Assets:Savings       440 USD
+    Expenses:Drinks       6 USD
 
-2016-12-15
+2016-11-18
     Assets
-    Income       -2620 USD
+    Expenses:Drinks       6 USD
+
+2016-11-12
+    Assets
+    Expenses:Books       85 USD
+
+2016-11-16
+    Assets
+    Expenses:Books       67 USD
+
+2016-11-6
+    Assets
+    Assets:Savings       122 USD
+
+2016-12-14
+    Assets
+    Income       -2171 USD
 
 2016-12-12
     Assets
     Expenses:Rent       1000 USD
 
-2016-12-25
+2016-12-15
     Assets
-    Expenses:Services       9 USD
-
-2016-12-16
-    Assets
-    Expenses:Services       28 USD
-
-2016-12-25
-    Assets
-    Expenses:Services       24 USD
-
-2016-12-4
-    Assets
-    Expenses:Food       26 USD
-
-2016-12-2
-    Assets
-    Expenses:Food       53 USD
-
-2016-12-14
-    Assets
-    Expenses:Food       32 USD
-
-2016-12-6
-    Assets
-    Expenses:Food       33 USD
-
-2016-12-3
-    Assets
-    Expenses:Food       44 USD
-
-2016-12-24
-    Assets
-    Expenses:Food       34 USD
-
-2016-12-28
-    Assets
-    Expenses:Food       37 USD
-
-2016-12-24
-    Assets
-    Expenses:Food       26 USD
-
-2016-12-19
-    Assets
-    Expenses:Food       38 USD
-
-2016-12-3
-    Assets
-    Expenses:Food       31 USD
+    Expenses:Services       31 USD
 
 2016-12-22
     Assets
-    Expenses:Food       39 USD
+    Expenses:Services       13 USD
 
-2016-12-1
+2016-12-18
     Assets
-    Expenses:Food       37 USD
+    Expenses:Services       24 USD
 
-2016-12-3
+2016-12-5
     Assets
-    Expenses:Food       32 USD
+    Expenses:Food       31 USD
 
-2016-12-11
+2016-12-7
     Assets
-    Expenses:Food       21 USD
+    Expenses:Food       34 USD
 
-2016-12-28
+2016-12-4
     Assets
-    Expenses:Food       49 USD
+    Expenses:Food       14 USD
 
-2016-12-28
+2016-12-18
     Assets
-    Expenses:Travel       92 USD
+    Expenses:Food       34 USD
 
-2016-12-21
+2016-12-10
     Assets
-    Expenses:Drinks       5 USD
+    Expenses:Food       22 USD
 
-2016-12-11
+2016-12-23
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Food       30 USD
+
+2016-12-7
+    Assets
+    Expenses:Food       15 USD
 
 2016-12-15
     Assets
+    Expenses:Food       17 USD
+
+2016-12-6
+    Assets
+    Expenses:Food       48 USD
+
+2016-12-27
+    Assets
+    Expenses:Food       32 USD
+
+2016-12-15
+    Assets
+    Expenses:Food       42 USD
+
+2016-12-13
+    Assets
+    Expenses:Food       29 USD
+
+2016-12-2
+    Assets
+    Expenses:Food       39 USD
+
+2016-12-9
+    Assets
+    Expenses:Food       20 USD
+
+2016-12-20
+    Assets
+    Expenses:Food       49 USD
+
+2016-12-4
+    Assets
+    Expenses:Travel       229 USD
+
+2016-12-7
+    Assets
     Expenses:Drinks       1 USD
 
-2016-12-11
+2016-12-21
     Assets
     Expenses:Drinks       2 USD
+
+2016-12-27
+    Assets
+    Expenses:Drinks       3 USD
+
+2016-12-14
+    Assets
+    Expenses:Drinks       2 USD
+
+2016-12-9
+    Assets
+    Expenses:Drinks       6 USD
+
+2016-12-22
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-12-9
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-12-14
+    Assets
+    Expenses:Drinks       4 USD
+
+2016-12-10
+    Assets
+    Expenses:Drinks       5 USD
+
+2016-12-23
+    Assets
+    Expenses:Drinks       1 USD
+
+2016-12-25
+    Assets
+    Expenses:Drinks       1 USD
 
 2016-12-13
     Assets
     Expenses:Drinks       6 USD
 
-2016-12-12
-    Assets
-    Expenses:Drinks       3 USD
-
-2016-12-26
-    Assets
-    Expenses:Drinks       4 USD
-
-2016-12-20
-    Assets
-    Expenses:Drinks       6 USD
-
 2016-12-11
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-12-5
-    Assets
-    Expenses:Drinks       5 USD
-
-2016-12-3
     Assets
     Expenses:Drinks       1 USD
 
-2016-12-12
+2016-12-3
     Assets
-    Expenses:Drinks       4 USD
+    Expenses:Drinks       2 USD
 
-2016-12-20
+2016-12-8
     Assets
-    Expenses:Books       22 USD
+    Expenses:Drinks       6 USD
 
-2016-12-9
+2016-12-8
     Assets
-    Expenses:Books       69 USD
+    Expenses:Books       75 USD
 
-2016-12-11
+2016-12-8
     Assets
-    Assets:Savings       100 USD
+    Expenses:Books       64 USD
+
+2016-12-1
+    Assets
+    Assets:Savings       307 USD
 

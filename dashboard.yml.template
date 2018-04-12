@@ -38,4 +38,4 @@ dashboard "ledger-cli report":
           type: "timeseries"
           tick: 
             format: "%Y-%m"
-    - data: file://./reports/monthly/categories.json
+    - data: file://./reports/monthly/categories_with_other.json

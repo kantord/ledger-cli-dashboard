@@ -4,7 +4,7 @@ all: \
 	reports/monthly/change/$(expenses_account)_vs_$(income_account).json \
 	reports/monthly/balance/$(assets_account).json \
 	reports/monthly/balance/$(savings_account).json \
-	reports/monthly/categories.json \
+	reports/monthly/categories_with_other.json \
 	.dashboard.yml
 
 .dashboard.yml: ./dashboard.yml.template
@@ -17,6 +17,26 @@ all: \
 
 reports/monthly/categories.json: expense_categories.conf $(ledgerfile)
 	./scripts/categories.sh "$(ledgerfile)" "$<" "$(expenses_account)" $(currency) "$@"
+
+reports/monthly/categories.total.txt.values: reports/monthly/categories.json
+	cat $< | jq '.rows[1:][] | .[1:] | join(" + ")' -r | bc > $@
+
+reports/monthly/categories.total.txt.dates: reports/monthly/categories.json
+	cat $< | jq '.rows[1:][] | .[0]' -r > $@
+
+reports/monthly/categories.total.txt: reports/monthly/categories.total.txt.dates reports/monthly/categories.total.txt.values 
+	paste $^ > $@
+
+reports/monthly/other_category.txt: reports/monthly/change/Expenses.txt reports/monthly/categories.total.txt
+	bash -c "paste <(join $^ | cut -f1 -d' ') <(join $^ | cut -f2,3 -d' ' | tr ' ' '-' | bc)" > $@
+
+reports/monthly/categories_with_other.txt: reports/monthly/categories.json reports/monthly/other_category.txt
+	bash -c "cat reports/monthly/categories.json | jq '.rows[0] + [\"Other\"] | join(\" \")' -r" > $@
+	bash -c "join <(cat reports/monthly/categories.json | jq '.rows[1:][] | join(\"\t\")' -r) <(cat reports/monthly/other_category.txt)" >> $@
+
+
+reports/monthly/categories_with_other.json: reports/monthly/categories_with_other.txt
+	cat $< | jq -R '. | split(" ")' | jq --slurp '{"rows": ., "x": "Month", "xFormat": "%Y-%m-%d"}' > $@
 
 reports/monthly/change/$(expenses_account)_vs_$(income_account).txt: reports/monthly/change/$(expenses_account).txt reports/monthly/inverted_change/$(income_account).txt
 	join $^ > $@

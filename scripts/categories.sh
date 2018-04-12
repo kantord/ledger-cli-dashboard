@@ -12,7 +12,8 @@ done
 
 # I know this is crazy
 # This generates code to join N files
-command_to_run=$(cat expense_categories.conf  | sed "s/$/.txt/;s/^/join - reports\/monthly\/change\/$expenses_account\//" | tr "\n" "|" | sed 's/|$//;s/^join -/cat/')
+command_to_run=$(cat expense_categories.conf  | sed "s/$/.txt/;s/^/join - reports\/monthly\/change\/$expenses_account\//" | tr "\n" "|" | sed 's/|$//;s/^join -/cat/' | sed 's/join/join -a1 -a2 -o auto -e"0"/g')
+echo "Running $command_to_run"
 
 header=$(cat expense_categories.conf | tr "\n" " ")
 

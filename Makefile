@@ -28,18 +28,18 @@ reports/monthly/categories.total.txt: reports/monthly/categories.total.txt.dates
 	paste $^ > $@
 
 reports/monthly/other_category.txt: reports/monthly/change/Expenses.txt reports/monthly/categories.total.txt
-	bash -c "paste <(join $^ | cut -f1 -d' ') <(join $^ | cut -f2,3 -d' ' | tr ' ' '-' | bc)" > $@
+	bash -c "paste <(join -a1 -a2 -o auto -e \"0\" $^ | cut -f1 -d' ') <(join -a1 -a2 -o auto -e \"0\" $^ | cut -f2,3 -d' ' | tr ' ' '-' | bc)" > $@
 
 reports/monthly/categories_with_other.txt: reports/monthly/categories.json reports/monthly/other_category.txt
 	bash -c "cat reports/monthly/categories.json | jq '.rows[0] + [\"Other\"] | join(\" \")' -r" > $@
-	bash -c "join <(cat reports/monthly/categories.json | jq '.rows[1:][] | join(\"\t\")' -r) <(cat reports/monthly/other_category.txt)" >> $@
+	bash -c "join -a1 -a2 -o auto -e \"0\" <(cat reports/monthly/categories.json | jq '.rows[1:][] | join(\"\t\")' -r) <(cat reports/monthly/other_category.txt)" >> $@
 
 
 reports/monthly/categories_with_other.json: reports/monthly/categories_with_other.txt
 	cat $< | jq -R '. | split(" ")' | jq --slurp '{"rows": ., "x": "Month", "xFormat": "%Y-%m-%d"}' > $@
 
 reports/monthly/change/$(expenses_account)_vs_$(income_account).txt: reports/monthly/change/$(expenses_account).txt reports/monthly/inverted_change/$(income_account).txt
-	join $^ > $@
+	join $^ -a1 -a2 -o auto -e "0" > $@
 
 # Create monthly change report for account (json format)
 reports/monthly/change/%.json: reports/monthly/change/%.txt

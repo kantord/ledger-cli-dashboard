@@ -397,6 +397,17 @@ just-dashboard@^0.10.0:
     sassline "^2.1.2"
     spinkit "^1.2.5"
 
+just-dashboard@^0.11.0:
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/just-dashboard/-/just-dashboard-0.11.0.tgz#fb4f8b00ac76cd3da5f1afc48fbaf4b7bf9075a7"
+  dependencies:
+    billboard.js "^1.3.0"
+    d3 "4.10.0"
+    fd-slicer "^1.0.1"
+    jq-web "^0.1.3"
+    sassline "^2.1.2"
+    spinkit "^1.2.5"
+
 pend@~1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50"

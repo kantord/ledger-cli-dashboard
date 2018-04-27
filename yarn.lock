@@ -375,9 +375,9 @@ jq-web@^0.1.3:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/jq-web/-/jq-web-0.1.5.tgz#3de502424831b0117e443f0550c670bef83884e1"
 
-jq-web@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/jq-web/-/jq-web-0.2.1.tgz#4f13f1bb6327109595efc2844c1a778bda64faa3"
+jq-web@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/jq-web/-/jq-web-0.3.1.tgz#19acbd909063783ecc5e9c569b40e5da392e88c4"
 
 just-dashboard-desktop@^1.0.0:
   version "1.0.0"

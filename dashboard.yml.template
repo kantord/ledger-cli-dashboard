@@ -1,6 +1,7 @@
 dashboard "ledger-cli report":
   - h1 text: ledger-cli report
-  - h2 text: Expense-income comparison
+  - h2 text: Trend lines
+  - h3 text: Expense-income comparison
   - spline chart:
     - attr:axis: 
         x: 
@@ -11,7 +12,7 @@ dashboard "ledger-cli report":
     - data: file://./reports/monthly/change/:expenses_account:_vs_:income_account:.json
   - 2 columns:
     - rows:
-      - h2 text: Assets
+      - h3 text: Assets
       - spline chart:
         - attr:axis: 
             x: 
@@ -21,7 +22,7 @@ dashboard "ledger-cli report":
                 format: "%Y-%m"
         - data: file://./reports/monthly/balance/:assets_account:.json
     - rows:
-      - h2 text: Savings
+      - h3 text: Savings
       - spline chart:
         - attr:axis: 
             x: 
@@ -30,7 +31,7 @@ dashboard "ledger-cli report":
               tick: 
                 format: "%Y-%m"
         - data: file://./reports/monthly/balance/:savings_account:.json
-  - h2 text: Expense categories
+  - h3 text: Expense categories
   - stacked area chart:
     - attr:axis: 
         x: 
@@ -39,3 +40,21 @@ dashboard "ledger-cli report":
           tick: 
             format: "%Y-%m"
     - data: file://./reports/monthly/categories_with_other.json
+  - h2 text: Monthly summaries
+  - p text: "Select month:"
+  - dropdown month=2018-05-01:
+    - attr:query: '[.rows[1:][] | .[0] | {"value": ., "text": .}]'
+    - data: file://./reports/monthly/categories_with_other.json
+  - 2 columns:
+    - pie chart:
+      - attr:query: '{"rows": [.rows[0][1:], (.rows[1:][] | select(.[0] == "${month}")[1:] )]}'
+      - data: file://./reports/monthly/categories_with_other.json
+    - rows:
+        - h3 text: Total expenses
+        - p text: 
+          - attr:query: '.rows[1:][] | select(.[0] == "${month}")[1] | tonumber| . * 100 | round | . / 100'
+          - data: file://./reports/monthly/change/:expenses_account:_vs_:income_account:.json
+        - h3 text: Total income
+        - p text:
+          - attr:query: '.rows[1:][] | select(.[0] == "${month}")[2] | tonumber| . * 100 | round | . / 100'
+          - data: file://./reports/monthly/change/:expenses_account:_vs_:income_account:.json

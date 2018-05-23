@@ -7,6 +7,8 @@ This is a graphical reporting tool for [ledger](https://www.ledger-cli.org/), cr
 ## Dependencies
 - yarn
 - npm
+- jq
+- ledger
 
 ## Setup
 ```

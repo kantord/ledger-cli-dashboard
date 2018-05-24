@@ -42,7 +42,7 @@ dashboard "ledger-cli report":
     - data: file://./reports/monthly/categories_with_other.json
   - h2 text: Monthly summaries
   - p text: "Select month:"
-  - dropdown month=2018-05-01:
+  - dropdown month=2014-01-01:
     - attr:query: '[.rows[1:][] | .[0] | {"value": ., "text": .}]'
     - data: file://./reports/monthly/categories_with_other.json
   - 2 columns:
@@ -58,3 +58,13 @@ dashboard "ledger-cli report":
         - p text:
           - attr:query: '.rows[1:][] | select(.[0] == "${month}")[2] | tonumber| . * 100 | round | . / 100'
           - data: file://./reports/monthly/change/:expenses_account:_vs_:income_account:.json
+  - h3 text: Day-by-day spending in this month
+  - area chart:
+    - attr:axis: 
+        x: 
+          label: "Month"
+          type: "timeseries"
+          tick: 
+            format: "%Y-%m-%d"
+    - attr:query: '{x: .x, xFormat: .xFormat, rows: ([.rows[0]] + (.rows[1:] | [.[] | select(.[0][0:7] == "${month}"[0:7])]))}'
+    - data: file://./reports/daily/change/:expenses_account:.json

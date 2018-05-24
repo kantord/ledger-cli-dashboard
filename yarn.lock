@@ -2,11 +2,28 @@
 # yarn lockfile v1
 
 
+argparse@^1.0.7:
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/argparse/-/argparse-1.0.10.tgz#bcd6791ea5ae09725e17e5ad988134cd40b3d911"
+  dependencies:
+    sprintf-js "~1.0.2"
+
+balanced-match@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
+
 billboard.js@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/billboard.js/-/billboard.js-1.4.1.tgz#30f302685f65988b73d22e63a275e1d580f4b2f8"
   dependencies:
     d3 "^5.0.0"
+
+brace-expansion@^1.1.7:
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.11.tgz#3c7fcbf529d87226f3d2f52b966ff5271eb441dd"
+  dependencies:
+    balanced-match "^1.0.0"
+    concat-map "0.0.1"
 
 buffer-from@^1.0.0:
   version "1.0.0"
@@ -15,6 +32,10 @@ buffer-from@^1.0.0:
 commander@2:
   version "2.15.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.15.1.tgz#df46e867d0fc2aec66a34662b406a9ccafff5b0f"
+
+concat-map@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
 
 d3-array@1, d3-array@^1.1.1, d3-array@^1.2.0:
   version "1.2.1"
@@ -379,15 +400,45 @@ d3@^5.0.0:
     d3-voronoi "1"
     d3-zoom "1"
 
+fast-deep-equal@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/fast-deep-equal/-/fast-deep-equal-2.0.1.tgz#7b05218ddf9667bf7f370bf7fdb2cb15fdd0aa49"
+
 fd-slicer@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/fd-slicer/-/fd-slicer-1.0.1.tgz#8b5bcbd9ec327c5041bf9ab023fd6750f1177e65"
   dependencies:
     pend "~1.2.0"
 
+fs.realpath@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/fs.realpath/-/fs.realpath-1.0.0.tgz#1504ad2523158caa40db4a2787cb01411994ea4f"
+
+glob@^7.0.5:
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/glob/-/glob-7.1.2.tgz#c19c9df9a028702d678612384a6552404c636d15"
+  dependencies:
+    fs.realpath "^1.0.0"
+    inflight "^1.0.4"
+    inherits "2"
+    minimatch "^3.0.4"
+    once "^1.3.0"
+    path-is-absolute "^1.0.0"
+
 iconv-lite@0.4:
   version "0.4.19"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.19.tgz#f7468f60135f5e5dad3399c0a81be9a1603a082b"
+
+inflight@^1.0.4:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/inflight/-/inflight-1.0.6.tgz#49bd6331d7d02d0c09bc910a1075ba8165b56df9"
+  dependencies:
+    once "^1.3.0"
+    wrappy "1"
+
+inherits@2:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
 
 jq-web@^0.1.3:
   version "0.1.5"
@@ -405,9 +456,23 @@ just-dashboard-desktop@^1.0.1:
     just-dashboard "https://github.com/kantord/just-dashboard.git#no-chunks"
     source-map-support "^0.5.6"
 
-just-dashboard@^0.11.2:
-  version "0.11.2"
-  resolved "https://registry.yarnpkg.com/just-dashboard/-/just-dashboard-0.11.2.tgz#4c75d5a1c44dbe457d9814e7f63a06dcb68a0924"
+just-dashboard@^0.11.4:
+  version "0.11.4"
+  resolved "https://registry.yarnpkg.com/just-dashboard/-/just-dashboard-0.11.4.tgz#47c5a76b6d980b87b9b53e78846ce0e94d6c9a51"
+  dependencies:
+    billboard.js "^1.4.1"
+    d3 "4.10.0"
+    fast-deep-equal "^2.0.1"
+    fd-slicer "^1.0.1"
+    jq-web "^0.1.3"
+    sassline "^2.1.2"
+    spinkit "^1.2.5"
+    yamljs "^0.3.0"
+
+"just-dashboard@https://github.com/kantord/just-dashboard.git#no-chunks":
+  version "0.0.0-development"
+  uid "7e8f907ed1d6738914def21bbd3ad724017bbb4f"
+  resolved "https://github.com/kantord/just-dashboard.git#7e8f907ed1d6738914def21bbd3ad724017bbb4f"
   dependencies:
     billboard.js "^1.4.1"
     d3 "4.10.0"
@@ -416,16 +481,21 @@ just-dashboard@^0.11.2:
     sassline "^2.1.2"
     spinkit "^1.2.5"
 
-"just-dashboard@git+https://github.com/kantord/just-dashboard.git#no-chunks":
-  version "0.0.0-development"
-  resolved "git+https://github.com/kantord/just-dashboard.git#7e8f907ed1d6738914def21bbd3ad724017bbb4f"
+minimatch@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.4.tgz#5166e286457f03306064be5497e8dbb0c3d32083"
   dependencies:
-    billboard.js "^1.4.1"
-    d3 "4.10.0"
-    fd-slicer "^1.0.1"
-    jq-web "^0.1.3"
-    sassline "^2.1.2"
-    spinkit "^1.2.5"
+    brace-expansion "^1.1.7"
+
+once@^1.3.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/once/-/once-1.4.0.tgz#583b1aa775961d4b113ac17d9c50baef9dd76bd1"
+  dependencies:
+    wrappy "1"
+
+path-is-absolute@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
 pend@~1.2.0:
   version "1.2.0"
@@ -454,6 +524,21 @@ spinkit@^1.2.5:
   version "1.2.5"
   resolved "https://registry.yarnpkg.com/spinkit/-/spinkit-1.2.5.tgz#90f9f466a20e8e39ef24da959c1e611c2a30dd54"
 
+sprintf-js@~1.0.2:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
+
+wrappy@1:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
+
 xmlhttprequest@1:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/xmlhttprequest/-/xmlhttprequest-1.8.0.tgz#67fe075c5c24fef39f9d65f5f7b7fe75171968fc"
+
+yamljs@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/yamljs/-/yamljs-0.3.0.tgz#dc060bf267447b39f7304e9b2bfbe8b5a7ddb03b"
+  dependencies:
+    argparse "^1.0.7"
+    glob "^7.0.5"

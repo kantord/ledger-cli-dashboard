@@ -1,3 +1,5 @@
+include price.db
+
 2014-1-15
     Assets
     Income       -2086 USD

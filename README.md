@@ -3,6 +3,10 @@ This is a graphical reporting tool for [ledger](https://www.ledger-cli.org/), cr
 
 ![](screenshot.png)
 
+## Built-in features
+- Observe long-term tendencies
+- Chart expenses within a specific month
+- Automatic currency exchange
 
 ## Dependencies
 - yarn

@@ -4,6 +4,7 @@ all: \
 	reports/monthly/change/$(expenses_account)_vs_$(income_account).json \
 	reports/monthly/balance/$(assets_account).json \
 	reports/daily/change/$(expenses_account).json \
+	reports/weekly/change/$(expenses_account).json \
 	reports/monthly/balance/$(savings_account).json \
 	reports/monthly/categories_with_other.json \
 	.dashboard.yml
@@ -46,10 +47,13 @@ reports/monthly/change/$(expenses_account)_vs_$(income_account).txt: reports/mon
 reports/monthly/change/%.json: reports/monthly/change/%.txt
 	./scripts/jsonify.sh "$<" "Month" "$*" > "$@"
 
+# Create weekly change report for account (json format)
+reports/weekly/change/%.json: reports/weekly/change/%.txt
+	./scripts/jsonify.sh "$<" "Week" "$*" > "$@"
+
 # Create monthly change report for account (json format)
 reports/daily/change/%.json: reports/daily/change/%.txt
 	./scripts/jsonify.sh "$<" "Day" "$*" > "$@"
-
 
 # Create monthly balance report for account (json format)
 reports/monthly/balance/%.json: reports/monthly/balance/%.txt
@@ -68,6 +72,14 @@ reports/monthly/change/%.txt: $(ledgerfile)
 	
 	# Create report file
 	./scripts/monthly_change.sh "$<" "$(shell echo "$*" | sed 's/^\///;s/\//:/g')" $(currency) > "$@"
+
+# Create weekly change report for account (dsv format)
+reports/weekly/change/%.txt: $(ledgerfile)
+	# Create parent directory
+	mkdir -p $(shell dirname $@)
+	
+	# Create report file
+	./scripts/weekly_change.sh "$<" "$(shell echo "$*" | sed 's/^\///;s/\//:/g')" $(currency) > "$@"
 
 # Create daily change report for account (dsv format)
 reports/daily/change/%.txt: $(ledgerfile)

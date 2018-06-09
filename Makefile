@@ -69,7 +69,6 @@ reports/monthly/change/%.txt: $(ledgerfile)
 	# Create report file
 	./scripts/monthly_change.sh "$<" "$(shell echo "$*" | sed 's/^\///;s/\//:/g')" $(currency) > "$@"
 
-
 # Create daily change report for account (dsv format)
 reports/daily/change/%.txt: $(ledgerfile)
 	# Create parent directory
@@ -77,8 +76,6 @@ reports/daily/change/%.txt: $(ledgerfile)
 	
 	# Create report file
 	./scripts/daily_change.sh "$<" "$(shell echo "$*" | sed 's/^\///;s/\//:/g')" $(currency) > "$@"
-
-
 
 # Create monthly balance report for account (dsv format)
 reports/monthly/balance/%.txt: $(ledgerfile)

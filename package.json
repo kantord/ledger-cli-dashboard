@@ -20,6 +20,6 @@
   "dependencies": {
     "jq-web": "^0.3.3",
     "just-dashboard": "^0.11.2",
-    "just-dashboard-desktop": "^1.0.1"
+    "just-dashboard-desktop": "^1.1.0"
   }
 }

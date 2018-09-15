@@ -29,7 +29,7 @@ reports/monthly/categories.total.txt.dates: reports/monthly/categories.json
 reports/monthly/categories.total.txt: reports/monthly/categories.total.txt.dates reports/monthly/categories.total.txt.values 
 	paste $^ > $@
 
-reports/monthly/other_category.txt: reports/monthly/change/Expenses.txt reports/monthly/categories.total.txt
+reports/monthly/other_category.txt: reports/monthly/change/$(expenses_account).txt reports/monthly/categories.total.txt
 	bash -c "paste <(join -a1 -a2 -o auto -e \"0\" $^ | cut -f1 -d' ') <(join -a1 -a2 -o auto -e \"0\" $^ | cut -f2,3 -d' ' | tr ' ' '-' | bc)" > $@
 
 reports/monthly/categories_with_other.txt: reports/monthly/categories.json reports/monthly/other_category.txt

@@ -3,6 +3,7 @@ include accounts.conf
 all: \
 	reports/monthly/change/$(expenses_account)_vs_$(income_account).json \
 	reports/monthly/balance/$(assets_account).json \
+	reports/monthly/change/$(assets_account).json \
 	reports/daily/change/$(expenses_account).json \
 	reports/weekly/change/$(expenses_account).json \
 	reports/monthly/balance/$(savings_account).json \

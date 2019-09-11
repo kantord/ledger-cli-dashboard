@@ -32,7 +32,7 @@ dashboard "ledger-cli report":
                 format: "%Y-%m"
         - data: file://./reports/monthly/change/:assets_account:.json
   - h3 text: Expense categories
-  - stacked area chart:
+  - area chart:
     - attr:axis: 
         x: 
           label: "Month"

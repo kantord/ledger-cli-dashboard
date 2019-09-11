@@ -32,6 +32,18 @@ buffer-from@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/buffer-from/-/buffer-from-1.0.0.tgz#4cb8832d23612589b0406e9e2956c17f06fdf531"
 
+cartesian-product-generator@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/cartesian-product-generator/-/cartesian-product-generator-1.1.1.tgz#5919a8ce051580b1a33238548e9260c98730ed00"
+  integrity sha512-d1KAzT8CO4l3HffHix9LyCInTek6cifNNH3HqT7YeaHDnjNas6wOgd/w2p2aPJQL0pmUS6Z0hb8r42Ch0E0CIA==
+  dependencies:
+    ind2sub "^2.0.0"
+
+combinations-generator@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/combinations-generator/-/combinations-generator-1.0.1.tgz#f0cb4da0cbcb55cce3bbe18612d19323fb939d14"
+  integrity sha1-8MtNoMvLVczju+GGEtGTI/uTnRQ=
+
 commander@2:
   version "2.15.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.15.1.tgz#df46e867d0fc2aec66a34662b406a9ccafff5b0f"
@@ -404,14 +416,24 @@ d3@^5.0.0:
     d3-voronoi "1"
     d3-zoom "1"
 
+emuto@^1.37.1:
+  version "1.38.0"
+  resolved "https://registry.yarnpkg.com/emuto/-/emuto-1.38.0.tgz#3bb31205fd9e7ff436c23c3651b763e9670427a5"
+  integrity sha512-fZ/FjVmCWtVxWMk/AwpsKudyT/fKnkMt40eLDthr04l0DdPyCQXMHMnXu0Cg3/kdli49uS1VHfhfsgG0c+sMtA==
+  dependencies:
+    cartesian-product-generator "^1.1.1"
+    combinations-generator "^1.0.1"
+    parsimmon "^1.12.1"
+
 fast-deep-equal@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/fast-deep-equal/-/fast-deep-equal-2.0.1.tgz#7b05218ddf9667bf7f370bf7fdb2cb15fdd0aa49"
   integrity sha1-ewUhjd+WZ79/Nwv3/bLLFf3Qqkk=
 
-fd-slicer@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/fd-slicer/-/fd-slicer-1.0.1.tgz#8b5bcbd9ec327c5041bf9ab023fd6750f1177e65"
+fd-slicer@^1.0.1, fd-slicer@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/fd-slicer/-/fd-slicer-1.1.0.tgz#25c7c89cb1f9077f8891bbe61d8f390eae256f1e"
+  integrity sha1-JcfInLH5B3+IkbvmHY85Dq4lbx4=
   dependencies:
     pend "~1.2.0"
 
@@ -435,6 +457,11 @@ glob@^7.0.5:
 iconv-lite@0.4:
   version "0.4.19"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.19.tgz#f7468f60135f5e5dad3399c0a81be9a1603a082b"
+
+ind2sub@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/ind2sub/-/ind2sub-2.0.0.tgz#323158a584fb4ed494ec600508b87af2fcd38219"
+  integrity sha512-xvb/V5SoBlJ36hYYzn5ZXGEPeGi6qDwFQu/luxa4eEoHYwlZFZChESsPl2cQVPE4kAsBHg5OQ5alEWtyktYXBg==
 
 inflight@^1.0.4:
   version "1.0.6"
@@ -465,16 +492,19 @@ just-dashboard-desktop@^1.0.1:
     just-dashboard "https://github.com/kantord/just-dashboard.git#no-chunks"
     source-map-support "^0.5.6"
 
-just-dashboard@^0.11.2:
-  version "0.11.2"
-  resolved "https://registry.yarnpkg.com/just-dashboard/-/just-dashboard-0.11.2.tgz#4c75d5a1c44dbe457d9814e7f63a06dcb68a0924"
+just-dashboard@^0.14.2:
+  version "0.14.2"
+  resolved "https://registry.yarnpkg.com/just-dashboard/-/just-dashboard-0.14.2.tgz#22fdc47c4dbecf46d8b1ddde1e87ea93648d1315"
+  integrity sha512-KRYNrGvgO0PEZDOc1AUaJFtqNq8nuHIVE0loVUWVs9OdIXfTck64C4r7/lGPBNDAMzk0mh6c46GkY+//nbmvXA==
   dependencies:
     billboard.js "^1.4.1"
     d3 "4.10.0"
-    fd-slicer "^1.0.1"
-    jq-web "^0.1.3"
+    emuto "^1.37.1"
+    fast-deep-equal "^2.0.1"
+    fd-slicer "^1.1.0"
     sassline "^2.1.2"
     spinkit "^1.2.5"
+    yamljs "^0.3.0"
 
 "just-dashboard@https://github.com/kantord/just-dashboard.git#no-chunks":
   version "0.0.0-development"
@@ -502,6 +532,11 @@ once@^1.3.0:
   integrity sha1-WDsap3WWHUsROsF9nFC6753Xa9E=
   dependencies:
     wrappy "1"
+
+parsimmon@^1.12.1:
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/parsimmon/-/parsimmon-1.13.0.tgz#6e4ef3dbd45ed6ea6808be600ac4b9c8a44228cf"
+  integrity sha512-5UIrOCW+gjbILkjKPgTgmq8LKf8TT3Iy7kN2VD7OtQ81facKn8B4gG1X94jWqXYZsxG2KbJhrv/Yq/5H6BQn7A==
 
 path-is-absolute@^1.0.0:
   version "1.0.1"

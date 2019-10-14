@@ -23,7 +23,7 @@ dashboard "ledger-cli report":
         - data: file://./reports/monthly/balance/:assets_account:.json
     - rows:
       - h3 text: Savings
-      - spline chart:
+      - bar chart:
         - attr:axis: 
             x: 
               label: "Month"

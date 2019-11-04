@@ -457,6 +457,11 @@ jq-web@^0.3.3:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/jq-web/-/jq-web-0.3.3.tgz#f928c9ea2db4264a0008e65163b10ad78ab23275"
 
+jq-web@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/jq-web/-/jq-web-0.5.1.tgz#4456cd3be4c2688c43f287b1fec2e3ea29e427e3"
+  integrity sha512-3Fa3E6g3U1O1j46ljy0EM10yRr4txzILga8J7bqOG8F89gZ6Lilz82WG9z6TItWpYEO0YGa4W8yFGj+NMM1xqQ==
+
 just-dashboard-desktop@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/just-dashboard-desktop/-/just-dashboard-desktop-1.0.1.tgz#425a661331d369e8d68f7077c0cdfff9eaf39723"

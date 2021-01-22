@@ -12,6 +12,7 @@ This is a graphical reporting tool for [ledger](https://www.ledger-cli.org/), cr
 - yarn
 - npm
 - jq
+- git
 - ledger
 
 ## Setup
